@@ -1,6 +1,6 @@
 # Introduction
 Hi! I'm Andrea Zorzi,  
-Follow me along my journey to become a developer.
+Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
 
 # My links
