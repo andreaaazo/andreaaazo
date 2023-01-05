@@ -6,7 +6,7 @@ Hi! I'm Andrea Zorzi,
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
