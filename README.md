@@ -9,8 +9,9 @@ I also do YouTube videos of my projects, consider to subscribe!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaaazo&layout=compact&theme=dracula"/>
 </p>
-<img src="https://github-readme-stats.vercel.app/api?username=andreaaazo&show_icons=true&theme=dracula" style="align-self: center; display: flex"/>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreaaazo&show_icons=true&theme=dracula" style="align-self: center; display: flex"/>
+</p>
 
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
