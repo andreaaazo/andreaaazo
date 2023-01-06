@@ -8,7 +8,7 @@
 I like coding, and I'm a big fan of Star Wars.<br></p>  
 
 ```python3
-if not user_is_online():
+if not User.is_online():
     User.status = "at_gym"
 ```
 
