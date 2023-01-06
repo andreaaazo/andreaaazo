@@ -1,7 +1,7 @@
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
 [![GitHub Followers][GitHub-Followers-shield]][GitHub-url]
-![](https://img.shields.io/endpoint?label=Visitors&style=for-the-badge&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b&url=https%3A%2F%2Fhits.dwyl.com%2Fandreaaazo%2Fandreaaazo.json)
+[![Visitors][Visitors-shield]][Visitors-url]
 
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
@@ -38,6 +38,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [Email-shield]: https://img.shields.io/badge/-Email_Me-e41b39?style=for-the-badge&logo=gmail&logoColor=f9f9fa
+[Visitors-shield]: https://img.shields.io/endpoint?label=Visitors&style=for-the-badge&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b&url=https%3A%2F%2Fhits.dwyl.com%2Fandreaaazo%2Fandreaaazo.json
 
 <!-- URLS -->
 [Fiverr-url]: https://www.fiverr.com/boxofdeath
@@ -47,4 +48,5 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [GitHub-url]: https://github.com/andreaaazo/
 [Email-url]: mailto:zorzi.andrea@outlook.com
+[Visitors-url]: https://hits.dwyl.com/andreaaazo/andreaaazo.json
 
