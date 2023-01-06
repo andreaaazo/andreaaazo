@@ -7,6 +7,8 @@
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.</p>
 
 <br/>
+<br/>
+<br/>
 
 ## Currently playing
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
