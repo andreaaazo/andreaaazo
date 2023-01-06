@@ -3,10 +3,10 @@
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
 # Introduction
-<p align="center" style="display: flex">
+<div align="center" style="display: flex">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%;"/>
   <p>test</p>
-</p>
+</div>
 </br>
 Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
