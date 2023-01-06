@@ -4,7 +4,7 @@
 
 # Introduction
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="left" width="50%" margin="50px"/>
-Hi! I'm Andrea Zorzi,  
+&nbsp; Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
 
