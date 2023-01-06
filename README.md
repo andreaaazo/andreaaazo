@@ -38,7 +38,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [Email-shield]: https://img.shields.io/badge/-Email_Me-e41b39?style=for-the-badge&logo=gmail&logoColor=f9f9fa
-[Visitors-shield]: https://shields-io-visitor-counter.herokuapp.com/badge?page=andreaaazo/andreaaazo&style=for-the-badge&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
+[Visitors-shield]: https://shields-io-visitor-counter.herokuapp.com/badge?page=andreaaazo/andreaaazo&style=for-the-badge&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b&logo=github
 
 <!-- URLS -->
 [Fiverr-url]: https://www.fiverr.com/boxofdeath
