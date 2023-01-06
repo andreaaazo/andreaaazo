@@ -8,7 +8,7 @@
 </p>
 
 # Introduction
-[![Coder][https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif]]
+[Coder](https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif)
 Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
