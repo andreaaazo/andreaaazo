@@ -4,7 +4,7 @@
 
 # Introduction
 &nbsp;<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
-<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.</p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.
 
 <br/>
 <br/>
