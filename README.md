@@ -9,7 +9,7 @@ I like coding, and I'm a big fan of Star Wars.<br></p>
 
 ```python3
 if not user_is_online():
-  User.status = "at_gym"
+    User.status = "at_gym"
 ```
 
 ## Follow me
