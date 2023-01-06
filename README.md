@@ -3,11 +3,7 @@
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
 # Introduction
-<div style="display: flex; width: 100%">
-  <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 75%; display: flex"/>
-  <p style="display: flex; align: left">test</p>
-</div>
-</br>
+<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 75%; display: flex"/>
 Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
