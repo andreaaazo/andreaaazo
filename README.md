@@ -12,7 +12,7 @@ if not User.is_online():
     User.status = "at_gym"
 ```
 
-## Follow me
+## 👀 Follow me
 📩 andy.dark
 
 <br>
