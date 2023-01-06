@@ -15,9 +15,9 @@ I also do YouTube videos of my projects, consider to subscribe!
 ## Currently playing
 [![Spotify](https://github-spotify-readme-pi.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 
-<table border="0" style="width: 100%">
+<table border="0" style="display: flex">
  <tr>
-    <td><b style="font-size:30px">Title</b></td>
+    <td><b style="font-size:30px; width: 50%">Title</b></td>
     <td><b style="font-size:30px">Title 2</b></td>
  </tr>
  <tr>
