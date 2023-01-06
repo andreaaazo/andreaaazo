@@ -8,7 +8,7 @@
 </p>
 
 # Introduction
-<p align="center">
+<p align="center" style="display: flex">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%; align-self: center"/>
 </p>
 </br>
