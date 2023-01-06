@@ -5,9 +5,10 @@
 # Introduction
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="left" width="50%" margin="50px"/>
 &nbsp; Hi! I'm Andrea Zorzi,  
-Follow me along my journey to become a developer.  
-I also do YouTube videos of my projects, consider to subscribe!
+&nbsp; Follow me along my journey to become a developer.  
+&nbsp; I also do YouTube videos of my projects, consider to subscribe!
 
+</br>
 
 ## Currently playing
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
