@@ -3,7 +3,7 @@
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
 # Introduction
-<div align="center" style="display: flex">
+<div style="display: flex; width: 100%">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%;"/>
   <p style="display: inline">test</p>
 </div>
