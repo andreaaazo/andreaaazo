@@ -5,12 +5,7 @@
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
-I like coding, and I'm a big fan of Star Wars.<br></p>  
-
-```python3
-if not User.is_online():
-    User.status = "at_gym"
-```
+I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 
 ## 📫 How to reach me:
 [![Youtube][Youtube-shield]][Youtube-url]
