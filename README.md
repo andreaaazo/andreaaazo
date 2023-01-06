@@ -2,9 +2,11 @@
 [![YouTube Channel Subscribers][Youtube-Channel-Views]][YouTube-url]
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
-# Introduction
+# 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.
+Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.  
+I like coding, and I'm a big fan of Star Wars.  
+If I'm not online, you can find me in the gym 🏋.
 
 ## Follow me
 📩 andy.dark
