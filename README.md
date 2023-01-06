@@ -14,7 +14,7 @@ I also do YouTube videos of my projects, consider to subscribe!
 
 
 ## Currently playing
-[![Spotify](https://github-spotify-readme-pi.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
+[![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 
 
 
