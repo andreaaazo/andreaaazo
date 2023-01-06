@@ -16,6 +16,8 @@ Hi! I'm Andrea Zorzi,
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
 
+[![Spotify](https://USER_NAME.vercel.app/api/spotify)](https://open.spotify.com/user/USER_NAME)
+
 
 
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
