@@ -11,6 +11,7 @@ I like coding, and I'm a big fan of Star Wars.<br></p>
 if not User.is_online():
     User.status = "at_gym"
 ```
+&emsp;
 
 ## 👀 Follow me
 📩 andy.dark
