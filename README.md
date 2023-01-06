@@ -10,7 +10,9 @@
 # Introduction
 <p align="center">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%; align-self: center"/>
-  Hi! I'm Andrea Zorzi,  
+</p>
+</br>
+Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
 I also do YouTube videos of my projects, consider to subscribe!
 
