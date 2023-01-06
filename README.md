@@ -6,10 +6,7 @@
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
 Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br>
-``python3
-if not user_is_online():
-  user = gym
-``
+``Use `code` in your Markdown file.``
 
 ## Follow me
 📩 andy.dark
