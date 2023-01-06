@@ -8,7 +8,7 @@
 </p>
 
 # Introduction
-<p style="align: center">
+<p align="center">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%"/>
   Hi! I'm Andrea Zorzi,  
 Follow me along my journey to become a developer.  
