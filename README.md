@@ -3,7 +3,7 @@
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
 # Introduction
-<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="left" width="50%" margin="50px"/>
+<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="left" width="25%"/> &nbsp;
 &nbsp; Hi! I'm Andrea Zorzi,  
 &nbsp; Follow me along my journey to become a developer.  
 &nbsp; I also do YouTube videos of my projects, consider to subscribe!
