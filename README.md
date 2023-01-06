@@ -4,9 +4,7 @@
 
 # Introduction
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="left" width="25%"/>
-&nbsp; Hi! I'm Andrea Zorzi,  
-&nbsp; Follow me along my journey to become a developer.  
-&nbsp; I also do YouTube videos of my projects, consider to subscribe!
+&nbsp; <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.</p>
 
 <br/>
 
