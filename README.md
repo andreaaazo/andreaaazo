@@ -1,7 +1,7 @@
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
 [![GitHub Followers][GitHub-Followers-shield]][GitHub-url]
-![](https://visitor-badge.glitch.me/badge?page_id=andreaaazo.andreaaazo&style=for-the-badge)
+![](https://img.shields.io/endpoint?label=Visitors&style=for-the-badge&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b&url=https%3A%2F%2Fhits.dwyl.com%2Fandreaaazo%2Fandreaaazo.json)
 
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
