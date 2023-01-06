@@ -7,10 +7,10 @@
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br></p>  
 
-``python3
+```python3
 if not user_is_online():
   User.status = "at_gym"
-``
+```
 
 ## Follow me
 📩 andy.dark
