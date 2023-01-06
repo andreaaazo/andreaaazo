@@ -8,7 +8,7 @@
 &nbsp; Follow me along my journey to become a developer.  
 &nbsp; I also do YouTube videos of my projects, consider to subscribe!
 
-</br>
+<br/>
 
 ## Currently playing
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
