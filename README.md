@@ -3,8 +3,11 @@
 [![GitHub Followers][GitHub.com]][GitHub-url]
 
 # Introduction
-&nbsp;<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
+<img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec hendrerit, nunc ac consectetur ultricies, eros nunc ultrices tellus, nec elementum dui sapien nec justo. Quisque dignissim nisi purus, eu elementum dolor aliquam sit amet. Integer volutpat, urna eu volutpat elementum, felis massa scelerisque tortor, sed ullamcorper dolor urna sit amet ipsum.
+
+## Follow me
+📩 andy.dark
 
 <br/>
 <br/>
