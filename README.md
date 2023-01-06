@@ -7,14 +7,14 @@
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br></p>  
 
-&emsp;
 ```python3
 if not User.is_online():
     User.status = "at_gym"
 ```
 
-## 👀 Follow me
-📩 andy.dark
+## 📫 How to reach me:
+[![Youtube][Youtube-shield]][Youtube-url]
+[![Instagram][Instagram-shield]][Youtube-url]
 
 <br>
 <br>
@@ -26,9 +26,9 @@ if not User.is_online():
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 
 
-`print(f)`
-
-
+<!-- Markdown variables -->
+[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=flat-square&logo=instagram&logoColor=white
+[Youtube-shield]: https://img.shields.io/badge/-follow-e41b39?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [GitHub.com]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github
