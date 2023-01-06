@@ -27,7 +27,7 @@ if not User.is_online():
 
 
 <!-- Markdown variables -->
-[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=flat-square&logo=instagram&logoColor=1d1b1b
+[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=1d1b1b
 [Youtube-shield]: https://img.shields.io/badge/-follow-e41b39?style=flat-square&logo=youtube&logoColor=1d1b1b&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
