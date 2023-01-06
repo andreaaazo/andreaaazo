@@ -23,29 +23,13 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-8%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-329%20Thousand%20lines%20of%20code-blue)
-
-**🐱 My GitHub Data** 
-
-> 🏆 173 Contributions in the Year 2023
- > 
-> 📦 229.9 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 11 Public Repositories 
- > 
-> 🔑 2 Private Repositories  
- > 
 **I'm a Night 🦉** 
 
 ```text
 🌞 Morning    10 commits     ░░░░░░░░░░░░░░░░░░░░░░░░░   3.0% 
 🌆 Daytime    56 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.82% 
-🌃 Evening    187 commits    ██████████████░░░░░░░░░░░   56.16% 
-🌙 Night      80 commits     ██████░░░░░░░░░░░░░░░░░░░   24.02%
+🌃 Evening    184 commits    █████████████░░░░░░░░░░░░   55.26% 
+🌙 Night      83 commits     ██████░░░░░░░░░░░░░░░░░░░   24.92%
 
 ```
 
@@ -53,8 +37,6 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 📊 **This Week I Spent My Time On** 
 
 ```text
-⌚︎ Time Zone: Europe/Zurich
-
 💬 Programming Languages: 
 Python                   8 mins              █████████████████████████   100.0%
 
@@ -64,7 +46,7 @@ advent_of_code           8 mins              ███████████�
 ```
 
 
- Last Updated on 06/01/2023 23:36:29 UTC
+ Last Updated on 06/01/2023 23:40:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
