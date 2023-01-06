@@ -10,8 +10,7 @@ I like coding, and I'm a big fan of Star Wars.<br></p>
 ```python3
 if not User.is_online():
     User.status = "at_gym"
-```
-&emsp;
+``` &emsp;
 
 ## 👀 Follow me
 📩 andy.dark
