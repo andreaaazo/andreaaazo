@@ -5,7 +5,7 @@
 # Introduction
 <div style="display: flex; width: 100%">
   <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%;"/>
-  <p style="display: inline">test</p>
+  <p style="display: inline; align: left">test</p>
 </div>
 </br>
 Hi! I'm Andrea Zorzi,  
