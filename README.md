@@ -38,4 +38,4 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [GitHub.com]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github
 [GitHub-url]: https://github.com/andreaaazo/
-[YouTube-Channel-Views]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&color=1d1b1b
+[YouTube-Channel-Views]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&labelColor=1d1b1b
