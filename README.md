@@ -4,7 +4,7 @@
 
 # Introduction
 <div style="display: flex; width: 100%">
-  <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 50%; display: flex"/>
+  <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" style="width: 75%; display: flex"/>
   <p style="display: flex; align: left">test</p>
 </div>
 </br>
