@@ -1,6 +1,7 @@
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
 [![GitHub Followers][GitHub-Followers-shield]][GitHub-url]
+![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
 
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
