@@ -6,7 +6,7 @@
 <img src="https://github.com/andreaaazo/andreaaazo/blob/main/coder.gif" align="right" width="50%"/>
 Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br>
-Use the `printf()` function.
+<code>print("hi")</code>
 
 ## Follow me
 📩 andy.dark
