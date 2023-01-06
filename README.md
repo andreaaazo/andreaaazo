@@ -7,7 +7,7 @@ Follow me along my journey to become a developer.
 I also do YouTube videos of my projects, consider to subscribe!
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andreaaazo&show_icons=true&theme=dracula" style="align-self: center; display: flex"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=andreaaazo&show_icons=true&bg_color=6a6a6a,1d1b1b" style="align-self: center; display: flex"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreaaazo&layout=compact&theme=dracula"/>
