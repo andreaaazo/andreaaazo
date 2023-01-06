@@ -19,10 +19,6 @@ if not User.is_online():
 [![TikTok][TikTok-shield]][Facebook-url]
 
 <br>
-<br>
-<br>
-<br>
-<br>
 
 ## 🎼 What I'm listening
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
