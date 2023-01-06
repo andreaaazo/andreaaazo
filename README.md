@@ -22,8 +22,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[TikTok-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=tiktok&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
-[Facebook-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
+[TikTok-shield]: https://img.shields.io/badge/Follow-1d1b1b?style=for-the-badge&logo=tiktok&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
+[Facebook-shield]: https://img.shields.io/badge/Follow-1d1b1b?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
 [Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa&link=https://www.instagram.com/andreaaa.zo
 [Youtube-shield]: https://img.shields.io/badge/-follow-e41b39?style=for-the-badge&logo=youtube&logoColor=f9f9fa&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
