@@ -14,7 +14,9 @@ if not User.is_online():
 
 ## 📫 How to reach me:
 [![Youtube][Youtube-shield]][Youtube-url]
-[![Instagram][Instagram-shield]][Youtube-url]
+[![Instagram][Instagram-shield]][Instagram-url]
+[![Facebook][Facebook-shield]][Facebook-url]
+[![TikTok][TikTok-shield]][Facebook-url]
 
 <br>
 <br>
@@ -27,9 +29,17 @@ if not User.is_online():
 
 
 <!-- Markdown variables -->
-[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa
+
+<!-- Shields -->
+[TikTok-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=tiktok&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
+[Facebook-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
+[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa&link=https://www.instagram.com/andreaaa.zo
 [Youtube-shield]: https://img.shields.io/badge/-follow-e41b39?style=for-the-badge&logo=youtube&logoColor=f9f9fa&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
+
+<!-- URLS -->
+[Facebook-url]: https://www.facebook.com/profile.php?id=100011160754263
+[Instagram-url]: https://www.instagram.com/andreaaa.zo
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [GitHub.com]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github
 [GitHub-url]: https://github.com/andreaaazo/
