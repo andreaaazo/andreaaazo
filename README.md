@@ -22,6 +22,8 @@ I like coding, and I'm a big fan of Star Wars.<br>
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 
 
+`print(f)`
+
 
 [YouTube-Channel-Subscribers]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
