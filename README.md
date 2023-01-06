@@ -23,6 +23,11 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br>
 
 <!--START_SECTION:waka-->
+
+```text
+Python   8 mins          █████████████████████████   100.00 %
+```
+
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
