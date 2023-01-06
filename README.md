@@ -12,7 +12,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [![Instagram][Instagram-shield]][Instagram-url]
 [![Facebook][Facebook-shield]][Facebook-url]
 [![TikTok][TikTok-shield]][TikTok-url]
-[![Fiverr][Fiverr-shield]][TikTok-url]
+[![Fiverr][Fiverr-shield]][Fiverr-url]
 
 <br>
 
@@ -23,7 +23,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Fiverr-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=fiverr&logoColor=f9f9fa&link=https://www.tiktok.com/@andreaaa.zo
+[Fiverr-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=fiverr&logoColor=f9f9fa&link=https://www.fiverr.com/boxofdeath
 [TikTok-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=tiktok&logoColor=f9f9fa&link=https://www.tiktok.com/@andreaaa.zo
 [Facebook-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
 [Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa&link=https://www.instagram.com/andreaaa.zo
