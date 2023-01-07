@@ -49,7 +49,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <img align="left" alt="Photoshop" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />         
 <img align="left" alt="PostgreSQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
 
-<br>
+<br />
+
+<br />
 
 <!--START_SECTION:waka-->
 **I'm a Night 🦉** 
