@@ -1,4 +1,3 @@
-<iframe src="https://dynamic-readme-banner.vercel.app/" title="description"></iframe>
 <div>
   <iframe id="inlineFrameExample"
       title="Inline Frame Example"
