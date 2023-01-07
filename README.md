@@ -1,4 +1,13 @@
 <iframe src="https://dynamic-readme-banner.vercel.app/" title="description"></iframe>
+<div>
+  <iframe id="inlineFrameExample"
+      title="Inline Frame Example"
+      width="800"
+      height="250"
+      src="https://dynamic-readme-banner.vercel.app/">
+  </iframe>
+</div>
+
 
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
