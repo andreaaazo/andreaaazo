@@ -1,13 +1,3 @@
-<div>
-  <iframe id="inlineFrameExample"
-      title="Inline Frame Example"
-      width="800"
-      height="250"
-      src="https://dynamic-readme-banner.vercel.app/">
-  </iframe>
-</div>
-
-
 [![Spotify](https://dynamic-readme-banner.vercel.app/)](https://open.spotify.com/user/boxofdeath)
 
 
