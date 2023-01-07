@@ -8,6 +8,9 @@
 </div>
 
 
+[![Spotify](https://dynamic-readme-banner.vercel.app/)](https://open.spotify.com/user/boxofdeath)
+
+
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
 [![GitHub Followers][GitHub-Followers-shield]][GitHub-url]
