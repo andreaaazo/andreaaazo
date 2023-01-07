@@ -1,4 +1,5 @@
 [![Spotify](https://dynamic-readme-banner.vercel.app/)](https://dynamic-readme-banner.vercel.app/)  
+<img align="left" alt="Visual Studio Code" width="800px" src="https://dynamic-readme-banner.vercel.app/" style="padding-right:10px;" />
 
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
