@@ -1,5 +1,6 @@
 [![Spotify](https://dynamic-readme-banner.vercel.app/)](https://open.spotify.com/user/boxofdeath)
 
+<img src="https://dynamic-readme-banner.app/" width="100%">
 
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
