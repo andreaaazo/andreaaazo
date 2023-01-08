@@ -1,4 +1,6 @@
-<img alt="Visual Studio Code" width="100%" height="auto" src="https://dynamic-readme-banner.vercel.app/" />
+<figure>
+ <img alt="Visual Studio Code" width="100%" height="auto" src="https://dynamic-readme-banner.vercel.app/" />
+</figure>
 
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
 [![YouTube Channel Views][Youtube-Channel-Views-shield]][YouTube-url]
