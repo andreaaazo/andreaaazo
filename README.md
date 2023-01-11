@@ -7,6 +7,8 @@
 [![GitHub Followers][GitHub-Followers-shield]][GitHub-url]
 [![Visitors][Visitors-shield]][Visitors-url]
 
+<br>
+
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/master/coder.gif" align="right" width="50%"/>
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
