@@ -92,7 +92,7 @@ andrea_zorzi             2 mins              █░░░░░░░░░░�
 ```
 
 
- Last Updated on 17/03/2023 23:32:58 UTC
+ Last Updated on 18/03/2023 01:52:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
