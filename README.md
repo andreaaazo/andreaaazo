@@ -54,8 +54,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <img align="left" alt="JQuery" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" style="padding-right:10px;" />    
 <img align="left" alt="Photoshop" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />         
 <img align="left" alt="PostgreSQL" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />
-<img align="left" alt="Babel" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />
-<img align="left" alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" style="padding-right:10px;" />
+<img align="left" alt="Babel" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" style="padding-right:10px;" />
+<img align="left" alt="React" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 
 
 <br />
