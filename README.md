@@ -10,7 +10,7 @@
 
 
 # 👋 About me
-
+<table>
 <tr>
 <td align="center">
 <img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" align="right" width="50%"/>
@@ -20,7 +20,7 @@
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 </td>
 </tr>
-
+</table>
 
 
 
