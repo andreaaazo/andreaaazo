@@ -10,9 +10,19 @@
 
 
 # 👋 About me
+
+<tr>
+<td align="center">
 <img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" align="right" width="50%"/>
+</td>
+<td align="center">
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
+</td>
+</tr>
+
+
+
 
 <br>
 
