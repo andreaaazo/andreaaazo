@@ -14,15 +14,6 @@
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 
-
-
-
-<br>
-
-<br>
-
-<br>
-
 <br>
 
 ## 📫 How to reach me
@@ -32,6 +23,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [![TikTok][TikTok-shield]][TikTok-url]
 [![Fiverr][Fiverr-shield]][Fiverr-url]
 [![Email][Email-shield]][Email-url]
+
+<br>
+
+<br>
 
 <br>
 
