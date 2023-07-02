@@ -17,7 +17,7 @@
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 </td>
 <td align="center">
-<img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif"/>
+<img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" width="50%"/>
 </td>
 </tr>
 </table>
