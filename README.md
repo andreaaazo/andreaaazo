@@ -11,7 +11,7 @@
 
 # 👋 About me
 <img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" width="40%" align="right"/>
-<p>Hi there! I'm a student from Switzerland, aspiring to become
+<p>Hi there! I'm a student from Switzerland, aspiring to become <br>
  a Full Stack Developer.
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 
