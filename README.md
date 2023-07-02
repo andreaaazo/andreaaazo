@@ -8,11 +8,13 @@
 
 <br>
 
-<img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" align="right" width="40%"/>
+<img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" align="right" width="50%"/>
 
 # 👋 About me
 <p>Hi there! I'm a student from Switzerland, aspiring to become a Full Stack Developer.<br>
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
+
+<br>
 
 <br>
 
