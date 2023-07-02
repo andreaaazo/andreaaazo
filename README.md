@@ -25,6 +25,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 [![Facebook][Facebook-shield]][Facebook-url]
 [![TikTok][TikTok-shield]][TikTok-url]
 [![Fiverr][Fiverr-shield]][Fiverr-url]
+<br>
 [![Email][Email-shield]][Email-url]
 
 <br>
