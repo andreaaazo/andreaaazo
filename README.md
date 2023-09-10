@@ -107,15 +107,15 @@ social_bot               2 mins              ██████░░░░░�
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Fiverr-shield]: https://img.shields.io/badge/Hire-08415c?style=for-the-badge&logo=fiverr&logoColor=08415c&link=https://www.fiverr.com/boxofdeath
-[TikTok-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=tiktok&logoColor=08415c&link=https://www.tiktok.com/@andreaaa.zo
-[Facebook-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
-[Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa&link=https://www.instagram.com/andreaaa.zo
-[Youtube-shield]: https://img.shields.io/badge/-Follow-e41b39?style=for-the-badge&logo=youtube&logoColor=f9f9fa&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
+[Fiverr-shield]: https://img.shields.io/badge/Hire-08415c?style=for-the-badge&logo=fiverr&logoColor=fbfbffc&link=https://www.fiverr.com/boxofdeath
+[TikTok-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=tiktok&logoColor=fbfbffc&link=https://www.tiktok.com/@andreaaa.zo
+[Facebook-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=facebook&logoColor=fbfbff&link=https://www.facebook.com/profile.php?id=100011160754263
+[Instagram-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=instagram&logoColor=fbfbff&link=https://www.instagram.com/andreaaa.zo
+[Youtube-shield]: https://img.shields.io/badge/-Follow-08415c?style=for-the-badge&logo=youtube&logoColor=fbfbff&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
 [YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=f9f9fa&labelColor=1d1b1b&color=eb5a5b
-[Email-shield]: https://img.shields.io/badge/-Email_Me-e41b39?style=for-the-badge&logo=gmail&logoColor=f9f9fa
+[Email-shield]: https://img.shields.io/badge/-Email_Me-08415c?style=for-the-badge&logo=gmail&logoColor=fbfbff
 
 <!-- URLS -->
 [Fiverr-url]: https://www.fiverr.com/boxofdeath
