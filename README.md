@@ -113,7 +113,7 @@ social_bot               2 mins              ██████░░░░░�
 [Instagram-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=instagram&logoColor=fbfbff&link=https://www.instagram.com/andreaaa.zo
 [Youtube-shield]: https://img.shields.io/badge/-Follow-08415c?style=for-the-badge&logo=youtube&logoColor=fbfbff&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
 [YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=fbfbff&labelColor=040f16&color=828da1
-[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=040f16&labelColor=fbfbff&color=828da1
+[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=fbfbff&labelColor=040f16&color=828da1
 [YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=fbfbff&labelColor=040f16&color=828da1
 [Email-shield]: https://img.shields.io/badge/-Email_Me-08415c?style=for-the-badge&logo=gmail&logoColor=fbfbff
 
