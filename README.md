@@ -107,7 +107,7 @@ social_bot               2 mins              ██████░░░░░�
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Fiverr-shield]: https://img.shields.io/badge/Hire-e41b39?style=for-the-badge&logo=fiverr&logoColor=08415c&link=https://www.fiverr.com/boxofdeath
+[Fiverr-shield]: https://img.shields.io/badge/Hire-08415c?style=for-the-badge&logo=fiverr&logoColor=08415c&link=https://www.fiverr.com/boxofdeath
 [TikTok-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=tiktok&logoColor=08415c&link=https://www.tiktok.com/@andreaaa.zo
 [Facebook-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=facebook&logoColor=f9f9fa&link=https://www.facebook.com/profile.php?id=100011160754263
 [Instagram-shield]: https://img.shields.io/badge/Follow-e41b39?style=for-the-badge&logo=instagram&logoColor=f9f9fa&link=https://www.instagram.com/andreaaa.zo
