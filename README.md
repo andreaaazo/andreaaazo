@@ -105,6 +105,10 @@ chatgpt-prompts          47 mins             ████████░░░�
 ## 🎼 What I'm listening
 [![Spotify](https://spotify-dynamic-player.vercel.app/api/spotify)](https://open.spotify.com/user/boxofdeath)
 
+<figure>
+ <img alt="Visual Studio Code" width="100%" object-fit="contain" src="https://spotify-dynamic-player.vercel.app/api/spotify" />
+</figure>
+
 
 <!-- Markdown variables -->
 
