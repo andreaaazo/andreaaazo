@@ -1,5 +1,5 @@
 <figure>
- <img alt="Visual Studio Code" width="100%" object-fit="contain" src="https://dynamic-readme-banner.vercel.app/" />
+ <img alt="Prensentation Widget" width="100%" src="https://dynamic-readme-banner.vercel.app/" />
 </figure>
 
 [![YouTube Channel Subscribers][Youtube-Channel-Subscribers-shield]][YouTube-url]
