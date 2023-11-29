@@ -10,7 +10,7 @@
 
 
 # 👋 About me
-<img src="https://github.com/andreaaazo/andreaaazo/blob/master/logo-animation.gif" width="40%" align="right" style="border-radius: 16px"/>
+
 <p>Hi there! I'm a student from Switzerland, a Full Stack Developer and Graphic Designer.<br>
 I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can find me in the gym.</p>  
 
