@@ -102,15 +102,15 @@ No Activity Tracked This Week
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Fiverr-shield]: https://img.shields.io/badge/Hire-08415c?style=for-the-badge&logo=fiverr&logoColor=fbfbffc&link=https://www.fiverr.com/boxofdeath
-[TikTok-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=tiktok&logoColor=fbfbffc&link=https://www.tiktok.com/@andreaaa.zo
-[Facebook-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=facebook&logoColor=fbfbff&link=https://www.facebook.com/profile.php?id=100011160754263
-[Instagram-shield]: https://img.shields.io/badge/Follow-08415c?style=for-the-badge&logo=instagram&logoColor=fbfbff&link=https://www.instagram.com/andreaaa.zo
-[Youtube-shield]: https://img.shields.io/badge/-Follow-08415c?style=for-the-badge&logo=youtube&logoColor=fbfbff&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
-[YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=fbfbff&labelColor=040f16&color=828da1
-[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=fbfbff&labelColor=040f16&color=828da1
-[YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=fbfbff&labelColor=040f16&color=828da1
-[Email-shield]: https://img.shields.io/badge/-Email_Me-08415c?style=for-the-badge&logo=gmail&logoColor=fbfbff
+[Fiverr-shield]: https://img.shields.io/badge/Hire-4B82CB?style=for-the-badge&logo=fiverr&logoColor=F2F2F2&link=https://www.fiverr.com/boxofdeath
+[TikTok-shield]: https://img.shields.io/badge/Follow-4B82CB?style=for-the-badge&logo=tiktok&logoColor=F2F2F2&link=https://www.tiktok.com/@andreaaa.zo
+[Facebook-shield]: https://img.shields.io/badge/Follow-4B82CB?style=for-the-badge&logo=facebook&logoColor=F2F2F2&link=https://www.facebook.com/profile.php?id=100011160754263
+[Instagram-shield]: https://img.shields.io/badge/Follow-4B82CB?style=for-the-badge&logo=instagram&logoColor=F2F2F2&link=https://www.instagram.com/andreaaa.zo
+[Youtube-shield]: https://img.shields.io/badge/-Follow-4B82CB?style=for-the-badge&logo=youtube&logoColor=F2F2F2&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
+[YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=4B82CB
+[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=F2F2F2&labelColor=0C0C0D&color=4B82CB
+[YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=4B82CB
+[Email-shield]: https://img.shields.io/badge/-Email_Me-4B82CB?style=for-the-badge&logo=gmail&logoColor=F2F2F2
 
 <!-- URLS -->
 [Fiverr-url]: https://www.fiverr.com/boxofdeath
