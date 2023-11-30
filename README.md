@@ -110,7 +110,7 @@ No Activity Tracked This Week
 [YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
 [GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
 [YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
-[Email-shield]: https://img.shields.io/badge/-Email_Me-6C99D5?style=for-the-badge&logo=gmail&logoColor=F2F2F2
+[Email-shield]: https://img.shields.io/badge/-Email_Me-6C99D5?style=for-the-badge&logo=gmail&logoColor=0C0C0D
 
 <!-- URLS -->
 [Fiverr-url]: https://www.fiverr.com/boxofdeath
