@@ -33,7 +33,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br>
 
 ## ⚡ My Technologies
-**Lan
+
 <img align="left" alt="YAML" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio Code" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
