@@ -119,8 +119,28 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-12-blue)
 
+**I'm a Night 🦉** 
 
- Last Updated on 26/01/2025 02:19:58 UTC
+```text
+🌞 Morning                1045 commits        █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
+🌆 Daytime                1180 commits        ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+🌃 Evening                1480 commits        ███████░░░░░░░░░░░░░░░░░░   27.59 % 
+🌙 Night                  1659 commits        ████████░░░░░░░░░░░░░░░░░   30.93 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 27/01/2025 02:19:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
