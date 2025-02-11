@@ -155,8 +155,6 @@ linked-list              1 hr                ███░░░░░░░░�
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Fiverr-shield]: https://img.shields.io/badge/Hire-6C99D5?style=for-the-badge&logo=fiverr&logoColor=F2F2F2&link=https://www.fiverr.com/boxofdeath
-[TikTok-shield]: https://img.shields.io/badge/Follow-6C99D5?style=for-the-badge&logo=tiktok&logoColor=F2F2F2&link=https://www.tiktok.com/@andreaaa.zo
 [Facebook-shield]: https://img.shields.io/badge/Follow-6C99D5?style=for-the-badge&logo=facebook&logoColor=F2F2F2&link=https://www.facebook.com/profile.php?id=100011160754263
 [Instagram-shield]: https://img.shields.io/badge/Follow-6C99D5?style=for-the-badge&logo=instagram&logoColor=F2F2F2&link=https://www.instagram.com/andreaaa.zo
 [Youtube-shield]: https://img.shields.io/badge/-Follow-6C99D5?style=for-the-badge&logo=youtube&logoColor=F2F2F2&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
@@ -166,8 +164,6 @@ linked-list              1 hr                ███░░░░░░░░�
 [Email-shield]: https://img.shields.io/badge/-Email_Me-6C99D5?style=for-the-badge&logo=gmail&logoColor=F2F2F2
 
 <!-- URLS -->
-[Fiverr-url]: https://www.fiverr.com/boxofdeath
-[TikTok-url]: https://www.tiktok.com/@andreaaa.zo
 [Facebook-url]: https://www.facebook.com/profile.php?id=100011160754263
 [Instagram-url]: https://www.instagram.com/andreaaa.zo
 [YouTube-url]: https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
