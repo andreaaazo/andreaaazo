@@ -155,13 +155,13 @@ linked-list              1 hr                ███░░░░░░░░�
 <!-- Markdown variables -->
 
 <!-- Shields -->
-[Facebook-shield]: https://img.shields.io/badge/Follow-6C99D5?style=for-the-badge&logo=facebook&logoColor=F2F2F2&link=https://www.facebook.com/profile.php?id=100011160754263
-[Instagram-shield]: https://img.shields.io/badge/Follow-6C99D5?style=for-the-badge&logo=instagram&logoColor=F2F2F2&link=https://www.instagram.com/andreaaa.zo
-[Youtube-shield]: https://img.shields.io/badge/-Follow-6C99D5?style=for-the-badge&logo=youtube&logoColor=F2F2F2&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
-[YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
-[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
-[YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=F2F2F2&labelColor=0C0C0D&color=6C99D5
-[Email-shield]: https://img.shields.io/badge/-Email_Me-6C99D5?style=for-the-badge&logo=gmail&logoColor=F2F2F2
+[Facebook-shield]: https://img.shields.io/badge/Follow-7D00E0?style=for-the-badge&logo=facebook&logoColor=FEFCFF&link=https://www.facebook.com/profile.php?id=100011160754263
+[Instagram-shield]: https://img.shields.io/badge/Follow-7D00E0?style=for-the-badge&logo=instagram&logoColor=FEFCFF&link=https://www.instagram.com/andreaaa.zo
+[Youtube-shield]: https://img.shields.io/badge/-Follow-7D00E0?style=for-the-badge&logo=youtube&logoColor=FEFCFF&link=https://www.youtube.com/channel/UCAMPX_yvXMXMidga9hTYyAQ
+[YouTube-Channel-Subscribers-shield]: https://img.shields.io/youtube/channel/subscribers/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=FEFCFF&labelColor=07000C&color=7D00E0
+[GitHub-Followers-shield]: https://img.shields.io/github/followers/andreaaazo?style=for-the-badge&logo=github&logoColor=FEFCFF&labelColor=07000C&color=7D00E0
+[YouTube-Channel-Views-shield]: https://img.shields.io/youtube/channel/views/UCAMPX_yvXMXMidga9hTYyAQ?style=for-the-badge&logo=youtube&logoColor=FEFCFF&labelColor=07000C&color=7D00E0
+[Email-shield]: https://img.shields.io/badge/-Email_Me-7D00E0?style=for-the-badge&logo=gmail&logoColor=FEFCFF
 
 <!-- URLS -->
 [Facebook-url]: https://www.facebook.com/profile.php?id=100011160754263
