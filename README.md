@@ -117,28 +117,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-**I'm a Night 🦉** 
 
-```text
-🌞 Morning                1046 commits        █████░░░░░░░░░░░░░░░░░░░░   18.66 % 
-🌆 Daytime                1180 commits        █████░░░░░░░░░░░░░░░░░░░░   21.05 % 
-🌃 Evening                1484 commits        ███████░░░░░░░░░░░░░░░░░░   26.47 % 
-🌙 Night                  1896 commits        ████████░░░░░░░░░░░░░░░░░   33.82 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-
- Last Updated on 16/09/2025 02:24:03 UTC
+ Last Updated on 17/09/2025 02:23:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
