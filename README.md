@@ -120,10 +120,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
-🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.17 % 
-🌃 Evening                1588 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
-🌙 Night                  2143 commits        █████████░░░░░░░░░░░░░░░░   35.46 % 
+🌞 Morning                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
+🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
+🌙 Night                  2147 commits        █████████░░░░░░░░░░░░░░░░   35.48 % 
 ```
 
 
@@ -131,14 +131,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-hyprlang                 0 secs              █████████████████████████   100.00 % 
+TeX                      1 hr 13 mins        █████████████████░░░░░░░░   68.37 % 
+Kotlin                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+gitignore                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
+Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
 
 🐱‍💻 Projects: 
-dotfiles                 0 secs              █████████████████████████   100.00 % 
+_templates               1 hr 10 mins        ████████████████░░░░░░░░░   65.50 % 
+billyapp                 33 mins             ████████░░░░░░░░░░░░░░░░░   31.29 % 
+Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
 ```
 
 
- Last Updated on 04/03/2026 03:30:45 UTC
+ Last Updated on 05/03/2026 03:34:06 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
