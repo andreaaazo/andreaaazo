@@ -121,9 +121,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 🌞 Morning                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.15 % 
+🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
 🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.31 % 
-🌙 Night                  2147 commits        █████████░░░░░░░░░░░░░░░░   35.48 % 
+🌙 Night                  2148 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
 ```
 
 
@@ -131,20 +131,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TeX                      1 hr 13 mins        █████████████████░░░░░░░░   68.37 % 
-Kotlin                   15 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
-gitignore                4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.36 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+TeX                      1 hr 15 mins        ███████████████░░░░░░░░░░   58.01 % 
+Kotlin                   15 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.25 % 
+Python                   14 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Other                    9 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.07 % 
+Markdown                 7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.69 % 
 
 🐱‍💻 Projects: 
-_templates               1 hr 10 mins        ████████████████░░░░░░░░░   65.50 % 
-billyapp                 33 mins             ████████░░░░░░░░░░░░░░░░░   31.29 % 
-Unknown Project          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+_templates               1 hr 10 mins        ██████████████░░░░░░░░░░░   54.28 % 
+billyapp                 47 mins             █████████░░░░░░░░░░░░░░░░   36.65 % 
+Unknown Project          11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
+Desktop                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 05/03/2026 03:34:06 UTC
+ Last Updated on 06/03/2026 03:31:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
