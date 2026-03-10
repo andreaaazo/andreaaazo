@@ -123,7 +123,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 🌞 Morning                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
 🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-🌙 Night                  2151 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
+🌙 Night                  2152 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
 ```
 
 
@@ -131,22 +131,22 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Assembly                 2 hrs 22 mins       ████████████░░░░░░░░░░░░░   46.87 % 
-TeX                      1 hr 15 mins        ██████░░░░░░░░░░░░░░░░░░░   24.91 % 
-Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-MATLAB                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
-hyprlang                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Assembly                 2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
+TeX                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
+Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
+MATLAB                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+hyprlang                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 33 mins       █████████████░░░░░░░░░░░░   50.70 % 
-_templates               1 hr 10 mins        ██████░░░░░░░░░░░░░░░░░░░   23.31 % 
-billyapp                 47 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
-Desktop                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
-dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
+Unknown Project          2 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.04 % 
+billyapp                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
+_templates               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
+Desktop                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
+dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
 ```
 
 
- Last Updated on 09/03/2026 03:39:34 UTC
+ Last Updated on 10/03/2026 03:31:09 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
