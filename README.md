@@ -122,8 +122,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 ```text
 🌞 Morning                1093 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
 🌆 Daytime                1219 commits        █████░░░░░░░░░░░░░░░░░░░░   20.13 % 
-🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.29 % 
-🌙 Night                  2152 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌃 Evening                1592 commits        ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+🌙 Night                  2153 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
 ```
 
 
@@ -131,22 +131,22 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Assembly                 2 hrs 22 mins       ███████████░░░░░░░░░░░░░░   43.48 % 
-TeX                      1 hr 39 mins        ████████░░░░░░░░░░░░░░░░░   30.34 % 
-Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.88 % 
-MATLAB                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
-hyprlang                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Assembly                 2 hrs 22 mins       ██████████░░░░░░░░░░░░░░░   40.37 % 
+TeX                      1 hr 39 mins        ███████░░░░░░░░░░░░░░░░░░   28.17 % 
+HTML                     25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Kotlin                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.53 % 
+MATLAB                   15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 33 mins       ████████████░░░░░░░░░░░░░   47.04 % 
-billyapp                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   21.83 % 
-_templates               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   21.62 % 
-Desktop                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.94 % 
-dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Unknown Project          2 hrs 33 mins       ███████████░░░░░░░░░░░░░░   43.67 % 
+billyapp                 1 hr 11 mins        █████░░░░░░░░░░░░░░░░░░░░   20.27 % 
+_templates               1 hr 10 mins        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+dagaz                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Desktop                  16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 % 
 ```
 
 
- Last Updated on 10/03/2026 03:31:09 UTC
+ Last Updated on 11/03/2026 03:31:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
