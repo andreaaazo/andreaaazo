@@ -95,6 +95,37 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <img align="left" alt="windows11" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows11/windows11-original.svg" style="padding-right:10px;" />
 <img align="left" alt="yaml" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yaml/yaml-original.svg" style="padding-right:10px;" />
 <img align="left" alt="xml" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xml/xml-original.svg" style="padding-right:10px;" />
+<img align="left" alt="archlinux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="chartjs" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg" style="padding-right:10px;" />
+<img align="left" alt="cmake" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cmake/cmake-original.svg" style="padding-right:10px;" />
+<img align="left" alt="codecov" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/codecov/codecov-plain.svg" style="padding-right:10px;" />
+<img align="left" alt="cplusplus" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" style="padding-right:10px;" />
+<img align="left" alt="digitalocean" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/digitalocean/digitalocean-original.svg" style="padding-right:10px;" />
+<img align="left" alt="firebase" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-original.svg" style="padding-right:10px;" />
+<img align="left" alt="flask" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" style="padding-right:10px;" />
+<img align="left" alt="gcc" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gcc/gcc-original.svg" style="padding-right:10px;" />
+<img align="left" alt="jetbrains" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jetbrains/jetbrains-original.svg" style="padding-right:10px;" />
+<img align="left" alt="json" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" style="padding-right:10px;" />
+<img align="left" alt="kotlin" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kotlin/kotlin-original.svg" style="padding-right:10px;" />
+<img align="left" alt="latex" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/latex/latex-original.svg" style="padding-right:10px;" />
+<img align="left" alt="linux" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" style="padding-right:10px;" />
+<img align="left" alt="lua" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" style="padding-right:10px;" />
+<img align="left" alt="matlab" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matlab/matlab-original.svg" style="padding-right:10px;" />
+<img align="left" alt="matplotlib" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" style="padding-right:10px;" />
+<img align="left" alt="neovim" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nginx" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ngrok" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ngrok/ngrok-original.svg" style="padding-right:10px;" />
+<img align="left" alt="nixos" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nixos/nixos-original.svg" style="padding-right:10px;" />
+<img align="left" alt="ohmyzsh" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" style="padding-right:10px;" />
+<img align="left" alt="openapi" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/openapi/openapi-original.svg" style="padding-right:10px;" />
+<img align="left" alt="postman" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" style="padding-right:10px;" />
+<img align="left" alt="pytest" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytest/pytest-original.svg" style="padding-right:10px;" />
+<img align="left" alt="qt" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" style="padding-right:10px;" />
+<img align="left" alt="sqlalchemy" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" style="padding-right:10px;" />
+<img align="left" alt="swift" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg" style="padding-right:10px;" />
+<img align="left" alt="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="xcode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
+<img align="left" alt="zsh" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" style="padding-right:10px;" />
 
 <br />
 
