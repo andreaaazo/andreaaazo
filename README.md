@@ -126,6 +126,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <img align="left" alt="typescript" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="xcode" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xcode/xcode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="zsh" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/zsh/zsh-original.svg" style="padding-right:10px;" />
+<img align="left" alt="markdown" width="25px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" style="padding-right:10px;" />
 
 <br />
 
