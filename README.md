@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.90 % 
-🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-🌃 Evening                1898 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌙 Night                  2266 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
+🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
+🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
+🌃 Evening                1900 commits        ███████░░░░░░░░░░░░░░░░░░   29.31 % 
+🌙 Night                  2267 commits        █████████░░░░░░░░░░░░░░░░   34.97 % 
 ```
 
 
@@ -163,21 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-YAML                     3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   29.05 % 
-TeX                      3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.37 % 
-Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.59 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.14 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.40 % 
+TeX                      5 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   35.23 % 
+YAML                     3 hrs 44 mins       ██████░░░░░░░░░░░░░░░░░░░   26.00 % 
+Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   18.43 % 
+Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.29 % 
+JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
 
 🐱‍💻 Projects: 
-wavvy                    9 hrs 39 mins       ███████████████████░░░░░░   74.88 % 
-billyapp                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.70 % 
-dagaz                    25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.26 % 
-testrepo                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+wavvy                    11 hrs 35 mins      ████████████████████░░░░░   80.44 % 
+billyapp                 2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   19.42 % 
+testrepo                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
 ```
 
 
- Last Updated on 17/03/2026 03:39:26 UTC
+ Last Updated on 18/03/2026 03:46:16 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
