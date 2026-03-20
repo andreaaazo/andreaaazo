@@ -155,7 +155,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.89 % 
 🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
 🌃 Evening                1900 commits        ███████░░░░░░░░░░░░░░░░░░   29.30 % 
-🌙 Night                  2268 commits        █████████░░░░░░░░░░░░░░░░   34.98 % 
+🌙 Night                  2269 commits        █████████░░░░░░░░░░░░░░░░   34.99 % 
 ```
 
 
@@ -163,20 +163,18 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 48 mins       ███████░░░░░░░░░░░░░░░░░░   28.94 % 
-YAML                     3 hrs 44 mins       ███████░░░░░░░░░░░░░░░░░░   28.52 % 
-Markdown                 2 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Other                    1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-JavaScript               41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.30 % 
+YAML                     2 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.29 % 
+TeX                      2 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   26.05 % 
+Markdown                 2 hrs 4 mins        ██████░░░░░░░░░░░░░░░░░░░   23.71 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
+Python                   32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.10 % 
 
 🐱‍💻 Projects: 
-wavvy                    11 hrs 35 mins      ██████████████████████░░░   88.24 % 
-billyapp                 1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.60 % 
-testrepo                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+wavvy                    8 hrs 44 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 19/03/2026 03:45:14 UTC
+ Last Updated on 20/03/2026 03:35:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
