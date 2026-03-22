@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1095 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
-🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.83 % 
-🌃 Evening                1900 commits        ███████░░░░░░░░░░░░░░░░░░   29.29 % 
-🌙 Night                  2270 commits        █████████░░░░░░░░░░░░░░░░   35.00 % 
+🌞 Morning                1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
+🌃 Evening                1944 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
+🌙 Night                  2303 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
 ```
 
 
@@ -163,19 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 19 mins       ████████████░░░░░░░░░░░░░   49.44 % 
-YAML                     1 hr 31 mins        ██████░░░░░░░░░░░░░░░░░░░   22.61 % 
-Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.62 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
-Caddyfile                26 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+TeX                      3 hrs 47 mins       █████████████░░░░░░░░░░░░   50.20 % 
+YAML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Caddyfile                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 
 🐱‍💻 Projects: 
-wavvy                    6 hrs 39 mins       █████████████████████████   99.27 % 
-Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
+wavvy                    7 hrs 8 mins        ████████████████████████░   94.51 % 
+dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
 ```
 
 
- Last Updated on 21/03/2026 03:26:42 UTC
+ Last Updated on 22/03/2026 03:44:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
