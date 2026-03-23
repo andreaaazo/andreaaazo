@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.60 % 
-🌃 Evening                1944 commits        ███████░░░░░░░░░░░░░░░░░░   29.61 % 
-🌙 Night                  2303 commits        █████████░░░░░░░░░░░░░░░░   35.08 % 
+🌞 Morning                1097 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
+🌆 Daytime                1221 commits        █████░░░░░░░░░░░░░░░░░░░░   18.58 % 
+🌃 Evening                1948 commits        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+🌙 Night                  2304 commits        █████████░░░░░░░░░░░░░░░░   35.07 % 
 ```
 
 
@@ -163,20 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 47 mins       █████████████░░░░░░░░░░░░   50.20 % 
-YAML                     1 hr 31 mins        █████░░░░░░░░░░░░░░░░░░░░   20.10 % 
-Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Python                   34 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
-Caddyfile                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+TeX                      6 hrs 21 mins       ████████████████░░░░░░░░░   65.53 % 
+YAML                     1 hr 6 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.44 % 
+Other                    38 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Lua                      35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.03 % 
+Caddyfile                26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.52 % 
 
 🐱‍💻 Projects: 
-wavvy                    7 hrs 8 mins        ████████████████████████░   94.51 % 
-dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.78 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+wavvy                    8 hrs 35 mins       ██████████████████████░░░   88.56 % 
+dotfiles                 53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+Unknown Project          13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
 ```
 
 
- Last Updated on 22/03/2026 03:44:07 UTC
+ Last Updated on 23/03/2026 03:49:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
