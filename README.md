@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1104 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
+🌞 Morning                1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
 🌆 Daytime                1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
 🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
 🌙 Night                  2391 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      9 hrs 4 mins        ████████████████████░░░░░   79.77 % 
-TeX                      1 hr 12 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.64 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
-hyprlang                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
-Markdown                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.63 % 
+Nix                      9 hrs 58 mins       ███████████████████░░░░░░   75.29 % 
+TeX                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+hyprlang                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
 
 🐱‍💻 Projects: 
-darksideos               9 hrs 21 mins       █████████████████████░░░░   82.29 % 
-wavvy                    1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.80 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.71 % 
-dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+darksideos               11 hrs 14 mins      █████████████████████░░░░   84.82 % 
+wavvy                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
+Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
+dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
 ```
 
 
- Last Updated on 01/04/2026 04:17:13 UTC
+ Last Updated on 02/04/2026 03:49:24 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
