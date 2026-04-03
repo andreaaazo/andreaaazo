@@ -153,9 +153,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 🌞 Morning                1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-🌆 Daytime                1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.16 % 
-🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   29.90 % 
-🌙 Night                  2391 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
+🌆 Daytime                1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
+🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   29.89 % 
+🌙 Night                  2392 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
 ```
 
 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      9 hrs 58 mins       ███████████████████░░░░░░   75.29 % 
-TeX                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
-hyprlang                 17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.26 % 
+Nix                      9 hrs 58 mins       ██████████████████░░░░░░░   71.04 % 
+TeX                      1 hr 12 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+hyprlang                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.36 % 
 
 🐱‍💻 Projects: 
-darksideos               11 hrs 14 mins      █████████████████████░░░░   84.82 % 
-wavvy                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.26 % 
-Unknown Project          25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.18 % 
-dotfiles                 21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
+darksideos               11 hrs 14 mins      ████████████████████░░░░░   80.03 % 
+wavvy                    1 hr 13 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.73 % 
+dotfiles                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
+Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
 ```
 
 
- Last Updated on 02/04/2026 03:49:24 UTC
+ Last Updated on 03/04/2026 03:50:04 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
