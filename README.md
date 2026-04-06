@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.41 % 
-🌆 Daytime                1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.15 % 
-🌃 Evening                2012 commits        ███████░░░░░░░░░░░░░░░░░░   29.88 % 
-🌙 Night                  2395 commits        █████████░░░░░░░░░░░░░░░░   35.57 % 
+🌞 Morning                1105 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌆 Daytime                1222 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
+🌃 Evening                2018 commits        ███████░░░░░░░░░░░░░░░░░░   29.92 % 
+🌙 Night                  2400 commits        █████████░░░░░░░░░░░░░░░░   35.58 % 
 ```
 
 
@@ -163,20 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      10 hrs 8 mins       ████████████████████░░░░░   78.00 % 
-Markdown                 59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-hyprlang                 52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
-C++                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.55 % 
-YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Nix                      11 hrs 48 mins      ████████████████████░░░░░   79.85 % 
+YAML                     58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.56 % 
+Markdown                 49 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+hyprlang                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.83 % 
+Other                    13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.49 % 
 
 🐱‍💻 Projects: 
-darksideos               11 hrs 25 mins      ██████████████████████░░░   87.87 % 
-dotfiles                 1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.54 % 
-Unknown Project          28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.59 % 
+darksideos               13 hrs 59 mins      ████████████████████████░   94.64 % 
+dotfiles                 44 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.05 % 
+Unknown Project          2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 
 
- Last Updated on 05/04/2026 03:58:45 UTC
+ Last Updated on 06/04/2026 04:12:50 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
