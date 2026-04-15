@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1113 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
-🌆 Daytime                1224 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
-🌃 Evening                2064 commits        ████████░░░░░░░░░░░░░░░░░   30.12 % 
-🌙 Night                  2451 commits        █████████░░░░░░░░░░░░░░░░   35.77 % 
+🌞 Morning                1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌆 Daytime                1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
+🌃 Evening                2064 commits        ████████░░░░░░░░░░░░░░░░░   30.11 % 
+🌙 Night                  2451 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
 ```
 
 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      13 hrs 4 mins       ██████████████████████░░░   88.95 % 
-hyprlang                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.58 % 
-gitrebase                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
+Nix                      12 hrs 14 mins      ██████████████████████░░░   88.27 % 
+hyprlang                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
+YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+gitrebase                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 
 🐱‍💻 Projects: 
-darksideos               12 hrs 2 mins       ████████████████████░░░░░   81.83 % 
-nix-lang-basics          1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-dotfiles                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-wavvy                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+darksideos               12 hrs 2 mins       ██████████████████████░░░   86.83 % 
+nix-lang-basics          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
+dotfiles                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+wavvy                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
 ```
 
 
- Last Updated on 14/04/2026 04:14:40 UTC
+ Last Updated on 15/04/2026 04:13:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
