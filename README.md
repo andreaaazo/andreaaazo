@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1114 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
+🌞 Morning                1115 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
 🌆 Daytime                1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
 🌃 Evening                2064 commits        ████████░░░░░░░░░░░░░░░░░   30.11 % 
 🌙 Night                  2451 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
@@ -163,21 +163,19 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      12 hrs 14 mins      ██████████████████████░░░   88.27 % 
-hyprlang                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 % 
-YAML                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
-gitrebase                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Nix                      11 hrs 3 mins       ██████████████████████░░░   88.14 % 
+hyprlang                 34 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 % 
+YAML                     16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+Bash                     13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
+gitrebase                10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.33 % 
 
 🐱‍💻 Projects: 
-darksideos               12 hrs 2 mins       ██████████████████████░░░   86.83 % 
-nix-lang-basics          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   07.24 % 
-dotfiles                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
-wavvy                    6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+darksideos               11 hrs 50 mins      ████████████████████████░   94.36 % 
+dotfiles                 42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 ```
 
 
- Last Updated on 15/04/2026 04:13:39 UTC
+ Last Updated on 16/04/2026 04:19:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
