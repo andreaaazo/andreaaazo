@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1117 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-🌆 Daytime                1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-🌃 Evening                2066 commits        ████████░░░░░░░░░░░░░░░░░   30.06 % 
-🌙 Night                  2464 commits        █████████░░░░░░░░░░░░░░░░   35.85 % 
+🌞 Morning                1117 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
+🌆 Daytime                1229 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.85 % 
+🌃 Evening                2068 commits        ████████░░░░░░░░░░░░░░░░░   30.04 % 
+🌙 Night                  2470 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
 ```
 
 
@@ -163,19 +163,19 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      6 hrs 36 mins       ██████████████████████░░░   86.81 % 
-hyprlang                 25 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.06 % 
-gitrebase                10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.20 % 
-conf                     8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
+Nix                      5 hrs 11 mins       ██████████████████░░░░░░░   73.08 % 
+Makefile                 27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Markdown                 24 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.83 % 
+gitignore                13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.21 % 
+Bash                     13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.16 % 
 
 🐱‍💻 Projects: 
-darksideos               7 hrs 4 mins        ███████████████████████░░   92.77 % 
-dotfiles                 33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.23 % 
+darksideos               7 hrs 3 mins        █████████████████████████   99.12 % 
+dotfiles                 3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 
 
- Last Updated on 18/04/2026 03:52:35 UTC
+ Last Updated on 19/04/2026 04:19:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
