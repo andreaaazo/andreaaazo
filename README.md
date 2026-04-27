@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1127 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.14 % 
-🌆 Daytime                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.73 % 
-🌃 Evening                2113 commits        ████████░░░░░░░░░░░░░░░░░   30.25 % 
-🌙 Night                  2506 commits        █████████░░░░░░░░░░░░░░░░   35.88 % 
+🌞 Morning                1130 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
+🌆 Daytime                1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
+🌃 Evening                2157 commits        ████████░░░░░░░░░░░░░░░░░   30.54 % 
+🌙 Night                  2536 commits        █████████░░░░░░░░░░░░░░░░   35.91 % 
 ```
 
 
@@ -163,18 +163,14 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      54 mins             █████████████░░░░░░░░░░░░   51.10 % 
-YAML                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   23.27 % 
-Markdown                 12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.91 % 
-Bash                     11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.16 % 
-gitrebase                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-darksideos               1 hr 46 mins        █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 
- Last Updated on 26/04/2026 04:28:03 UTC
+ Last Updated on 27/04/2026 04:36:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
