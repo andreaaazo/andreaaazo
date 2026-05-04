@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1136 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
-🌆 Daytime                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.49 % 
-🌃 Evening                2169 commits        ████████░░░░░░░░░░░░░░░░░   30.65 % 
-🌙 Night                  2534 commits        █████████░░░░░░░░░░░░░░░░   35.81 % 
+🌞 Morning                1138 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.05 % 
+🌆 Daytime                1241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+🌃 Evening                2173 commits        ████████░░░░░░░░░░░░░░░░░   30.64 % 
+🌙 Night                  2540 commits        █████████░░░░░░░░░░░░░░░░   35.82 % 
 ```
 
 
@@ -163,14 +163,17 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TeX                      6 mins              █████████████████████████   100.00 % 
+TeX                      6 mins              ████████████░░░░░░░░░░░░░   47.45 % 
+Other                    4 mins              ███████░░░░░░░░░░░░░░░░░░   29.70 % 
+Valve Data Format        3 mins              ██████░░░░░░░░░░░░░░░░░░░   22.85 % 
 
 🐱‍💻 Projects: 
-Unknown Project          6 mins              █████████████████████████   100.00 % 
+Andrea                   7 mins              █████████████░░░░░░░░░░░░   52.55 % 
+Unknown Project          6 mins              ████████████░░░░░░░░░░░░░   47.45 % 
 ```
 
 
- Last Updated on 03/05/2026 04:46:11 UTC
+ Last Updated on 04/05/2026 04:45:42 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
