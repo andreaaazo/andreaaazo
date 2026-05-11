@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1144 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.11 % 
+🌞 Morning                1145 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.12 % 
 🌆 Daytime                1241 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
 🌃 Evening                2178 commits        ████████░░░░░░░░░░░░░░░░░   30.66 % 
-🌙 Night                  2540 commits        █████████░░░░░░░░░░░░░░░░   35.76 % 
+🌙 Night                  2540 commits        █████████░░░░░░░░░░░░░░░░   35.75 % 
 ```
 
 
@@ -163,18 +163,17 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      40 mins             ██████████████░░░░░░░░░░░   55.66 % 
-Other                    24 mins             ████████░░░░░░░░░░░░░░░░░   32.90 % 
-Bash                     5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.97 % 
-Valve Data Format        3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+Nix                      1 hr 2 mins         ██████████░░░░░░░░░░░░░░░   38.72 % 
+Other                    56 mins             █████████░░░░░░░░░░░░░░░░   35.07 % 
+Bash                     41 mins             ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
 
 🐱‍💻 Projects: 
-darksideos               1 hr 5 mins         ██████████████████████░░░   89.72 % 
-Andrea                   7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+darksideos               2 hrs 41 mins       █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 10/05/2026 04:51:41 UTC
+ Last Updated on 11/05/2026 05:04:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
