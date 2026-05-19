@@ -149,8 +149,34 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
+**I'm a Night 🦉** 
 
- Last Updated on 18/05/2026 05:14:35 UTC
+```text
+🌞 Morning                1156 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+🌆 Daytime                1246 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.28 % 
+🌃 Evening                2234 commits        ████████░░░░░░░░░░░░░░░░░   30.98 % 
+🌙 Night                  2576 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Bash                     2 hrs 17 mins       ███████░░░░░░░░░░░░░░░░░░   28.70 % 
+Nix                      2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Other                    1 hr 43 mins        █████░░░░░░░░░░░░░░░░░░░░   21.73 % 
+Makefile                 27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.70 % 
+YAML                     23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+
+🐱‍💻 Projects: 
+darksideos               7 hrs 38 mins       ████████████████████████░   95.89 % 
+dotfiles                 14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.94 % 
+Andrea                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
+```
+
+
+ Last Updated on 19/05/2026 05:09:17 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
