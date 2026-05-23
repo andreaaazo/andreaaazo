@@ -152,9 +152,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1163 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+🌞 Morning                1164 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.94 % 
-🌃 Evening                2330 commits        ████████░░░░░░░░░░░░░░░░░   31.58 % 
+🌃 Evening                2330 commits        ████████░░░░░░░░░░░░░░░░░   31.57 % 
 🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.72 % 
 ```
 
@@ -163,19 +163,19 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      2 hrs 46 mins       ███████████░░░░░░░░░░░░░░   43.32 % 
-Bash                     1 hr 41 mins        ███████░░░░░░░░░░░░░░░░░░   26.33 % 
-Makefile                 42 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
-Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.45 % 
+Nix                      2 hrs 9 mins        ███████████░░░░░░░░░░░░░░   42.70 % 
+Bash                     1 hr 24 mins        ███████░░░░░░░░░░░░░░░░░░   27.88 % 
+Makefile                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.34 % 
+YAML                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
+Other                    17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🐱‍💻 Projects: 
-darksideos               6 hrs 19 mins       █████████████████████████   98.55 % 
-Andrea                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
+darksideos               4 hrs 56 mins       █████████████████████████   98.15 % 
+Andrea                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
 ```
 
 
- Last Updated on 22/05/2026 05:09:34 UTC
+ Last Updated on 23/05/2026 04:49:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
