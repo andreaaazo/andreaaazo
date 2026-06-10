@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1167 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.76 % 
+🌞 Morning                1168 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
 🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.88 % 
 🌃 Evening                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
 🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.59 % 
@@ -163,19 +163,22 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      3 hrs 19 mins       █████████████░░░░░░░░░░░░   50.48 % 
-Bash                     2 hrs 4 mins        ████████░░░░░░░░░░░░░░░░░   31.59 % 
-Makefile                 25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.53 % 
-YAML                     20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
-Docker                   13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 % 
+Go                       6 hrs 5 mins        ██████████░░░░░░░░░░░░░░░   40.22 % 
+YAML                     4 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
+Markdown                 1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Makefile                 1 hr 10 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Lua                      28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.11 % 
 
 🐱‍💻 Projects: 
-darksideos               6 hrs 35 mins       █████████████████████████   99.97 % 
-dotfiles                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+darksideos3              14 hrs 24 mins      ████████████████████████░   95.20 % 
+dotfiles                 28 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Andrea                   5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 % 
+wavvy                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 % 
 ```
 
 
- Last Updated on 26/05/2026 05:10:32 UTC
+ Last Updated on 10/06/2026 05:26:39 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
