@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1174 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.84 % 
+🌞 Morning                1175 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.85 % 
 🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
 🌃 Evening                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.56 % 
+🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.55 % 
 ```
 
 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Go                       16 hrs 30 mins      ████████████████████░░░░░   81.91 % 
-Markdown                 1 hr 45 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.72 % 
-YAML                     1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.45 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Go                       15 hrs 17 mins      █████████████████████░░░░   82.23 % 
+Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
+YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
+JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
 
 🐱‍💻 Projects: 
-darksideos3              19 hrs 51 mins      █████████████████████████   98.50 % 
-school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.63 % 
-Andrea                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+darksideos3              18 hrs 17 mins      █████████████████████████   98.37 % 
+school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Andrea                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 ```
 
 
- Last Updated on 16/06/2026 06:39:59 UTC
+ Last Updated on 17/06/2026 06:24:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
