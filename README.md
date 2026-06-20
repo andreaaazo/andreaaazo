@@ -152,9 +152,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1177 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.86 % 
-🌃 Evening                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.73 % 
+🌞 Morning                1178 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
+🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+🌃 Evening                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
 🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
 ```
 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Go                       15 hrs 17 mins      █████████████████████░░░░   82.23 % 
-Markdown                 1 hr 37 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.74 % 
-YAML                     59 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.35 % 
-Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-JSON                     7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
+Go                       11 hrs 55 mins      ██████████████████░░░░░░░   72.85 % 
+YAML                     1 hr 47 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
+Markdown                 1 hr 34 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Bash                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
+Text                     17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.77 % 
 
 🐱‍💻 Projects: 
-darksideos3              18 hrs 17 mins      █████████████████████████   98.37 % 
-school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
-Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-Andrea                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+darksideos3              16 hrs 4 mins       █████████████████████████   98.15 % 
+school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.97 % 
+Unknown Project          7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+Andrea                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 ```
 
 
- Last Updated on 19/06/2026 06:27:36 UTC
+ Last Updated on 20/06/2026 05:23:41 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
