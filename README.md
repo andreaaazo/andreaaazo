@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1179 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌞 Morning                1180 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.91 % 
 🌆 Daytime                1250 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
 🌃 Evening                2353 commits        ████████░░░░░░░░░░░░░░░░░   31.72 % 
-🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.54 % 
+🌙 Night                  2636 commits        █████████░░░░░░░░░░░░░░░░   35.53 % 
 ```
 
 
@@ -163,20 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Go                       8 hrs 26 mins       ███████████████░░░░░░░░░░   58.71 % 
-Markdown                 3 hrs 13 mins       ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-YAML                     1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.96 % 
-Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
-Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+Go                       6 hrs 15 mins       █████████████░░░░░░░░░░░░   53.92 % 
+Markdown                 2 hrs 49 mins       ██████░░░░░░░░░░░░░░░░░░░   24.38 % 
+YAML                     1 hr 32 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.24 % 
+Bash                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 % 
+Text                     17 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
 
 🐱‍💻 Projects: 
-darksideos3              14 hrs 7 mins       █████████████████████████   98.13 % 
-school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.11 % 
-Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.77 % 
+darksideos3              11 hrs 20 mins      ████████████████████████░   97.68 % 
+school                   9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.95 % 
 ```
 
 
- Last Updated on 21/06/2026 06:12:25 UTC
+ Last Updated on 22/06/2026 06:37:03 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
