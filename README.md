@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1186 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+🌞 Morning                1187 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.81 % 
 🌆 Daytime                1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.99 % 
 🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.52 % 
@@ -163,20 +163,20 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Go                       9 hrs 4 mins        ████████████████░░░░░░░░░   64.67 % 
-Markdown                 2 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.68 % 
-YAML                     1 hr 19 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.41 % 
-Makefile                 35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.22 % 
-Bash                     26 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.13 % 
+Go                       9 hrs 31 mins       █████████████████░░░░░░░░   69.68 % 
+Markdown                 2 hrs 45 mins       █████░░░░░░░░░░░░░░░░░░░░   20.23 % 
+YAML                     38 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.65 % 
+Makefile                 36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.42 % 
+Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
 
 🐱‍💻 Projects: 
-darksideos3              13 hrs 56 mins      █████████████████████████   99.42 % 
-Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 % 
+darksideos3              13 hrs 35 mins      █████████████████████████   99.40 % 
+Unknown Project          3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 % 
 dotfiles                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 % 
 ```
 
 
- Last Updated on 26/06/2026 05:18:05 UTC
+ Last Updated on 27/06/2026 05:00:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
