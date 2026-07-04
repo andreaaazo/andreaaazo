@@ -152,8 +152,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1193 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.88 % 
-🌆 Daytime                1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                1194 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
+🌆 Daytime                1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.96 % 
 🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.49 % 
 ```
@@ -163,18 +163,19 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Go                       4 hrs 23 mins       █████████████████░░░░░░░░   67.47 % 
-YAML                     55 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
-Markdown                 40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Bash                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.19 % 
-Makefile                 12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.10 % 
+Go                       1 hr 30 mins        ███████████░░░░░░░░░░░░░░   44.99 % 
+YAML                     49 mins             ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+Markdown                 16 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Other                    14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
+Bash                     12 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.21 % 
 
 🐱‍💻 Projects: 
-darksideos3              6 hrs 30 mins       █████████████████████████   100.00 % 
+darksideos3              3 hrs 5 mins        ███████████████████████░░   92.64 % 
+Andrea                   14 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.36 % 
 ```
 
 
- Last Updated on 03/07/2026 04:51:26 UTC
+ Last Updated on 04/07/2026 04:43:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
