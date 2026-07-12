@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1201 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.96 % 
+🌞 Morning                1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
 🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
@@ -163,22 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 37 mins       ███████████░░░░░░░░░░░░░░   45.50 % 
-Bash                     41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.83 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.16 % 
-Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.13 % 
+Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
+Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
+Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
+Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
 
 🐱‍💻 Projects: 
-wavvy                    2 hrs 58 mins       █████████████░░░░░░░░░░░░   51.49 % 
-Desktop                  1 hr 33 mins        ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-wavvy_2_new              1 hr 8 mins         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
-reelscraper              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+wavvy                    2 hrs 58 mins       ████████████████░░░░░░░░░   64.23 % 
+wavvy_2_new              1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
+Desktop                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+darksideos3              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
 ```
 
 
- Last Updated on 11/07/2026 04:20:33 UTC
+ Last Updated on 12/07/2026 04:31:43 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
