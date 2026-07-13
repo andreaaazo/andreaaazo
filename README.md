@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1202 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+🌞 Morning                1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.91 % 
-🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
+🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
+🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
 ```
 
 
@@ -163,21 +163,21 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 32 mins        ████████░░░░░░░░░░░░░░░░░   33.17 % 
-Bash                     41 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Other                    27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-YAML                     24 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.93 % 
-Makefile                 21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.65 % 
+Markdown                 53 mins             ███████████░░░░░░░░░░░░░░   45.29 % 
+Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
+YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
+TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
+Java Properties          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
 
 🐱‍💻 Projects: 
-wavvy                    2 hrs 58 mins       ████████████████░░░░░░░░░   64.23 % 
-wavvy_2_new              1 hr 8 mins         ██████░░░░░░░░░░░░░░░░░░░   24.54 % 
-Desktop                  25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-darksideos3              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.14 % 
+wavvy_2_new              1 hr 8 mins         ██████████████░░░░░░░░░░░   57.92 % 
+Desktop                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
+wavvy                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
+darksideos3              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
 ```
 
 
- Last Updated on 12/07/2026 04:31:43 UTC
+ Last Updated on 13/07/2026 04:37:56 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
