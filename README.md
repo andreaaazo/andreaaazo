@@ -152,7 +152,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1203 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.98 % 
+🌞 Morning                1204 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.00 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.90 % 
 🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
@@ -163,21 +163,14 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 53 mins             ███████████░░░░░░░░░░░░░░   45.29 % 
-Other                    26 mins             ██████░░░░░░░░░░░░░░░░░░░   22.05 % 
-YAML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-TOML                     10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-Java Properties          7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.96 % 
+Markdown                 5 mins              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-wavvy_2_new              1 hr 8 mins         ██████████████░░░░░░░░░░░   57.92 % 
-Desktop                  25 mins             █████░░░░░░░░░░░░░░░░░░░░   21.45 % 
-wavvy                    18 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.57 % 
-darksideos3              5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.06 % 
+darksideos3              5 mins              █████████████████████████   100.00 % 
 ```
 
 
- Last Updated on 13/07/2026 04:37:56 UTC
+ Last Updated on 14/07/2026 04:10:57 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
