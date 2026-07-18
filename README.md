@@ -152,10 +152,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1207 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.03 % 
+🌞 Morning                1208 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.04 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
+🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.88 % 
+🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
 ```
 
 
@@ -163,14 +163,19 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 5 mins              █████████████████████████   100.00 % 
+Go                       2 hrs 27 mins       ██████████████░░░░░░░░░░░   54.67 % 
+YAML                     1 hr 19 mins        ███████░░░░░░░░░░░░░░░░░░   29.53 % 
+Markdown                 23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Makefile                 13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.97 % 
+gitignore                3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 
 🐱‍💻 Projects: 
-darksideos3              5 mins              █████████████████████████   100.00 % 
+darksideos3              4 hrs 27 mins       █████████████████████████   99.09 % 
+dotfiles                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
 ```
 
 
- Last Updated on 17/07/2026 04:16:06 UTC
+ Last Updated on 18/07/2026 04:08:44 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
