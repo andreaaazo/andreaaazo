@@ -151,8 +151,52 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <!--START_SECTION:waka-->
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2010%20mins-blue?style=flat)
 
+**I'm a Night 🦉** 
 
- Last Updated on 28/07/2026 04:18:10 UTC
+```text
+🌞 Morning                1219 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
+🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.84 % 
+🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Python                   1 hr 7 mins         █████████████████████████   99.90 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
+
+🐱‍💻 Projects: 
+Unknown Project          51 mins             ███████████████████░░░░░░   76.71 % 
+Numerical_Methods        15 mins             ██████░░░░░░░░░░░░░░░░░░░   23.29 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 19 mins (29.04%)
+
+✍️ 264 lines written by AI, 1,665 lines written by hand (13.69% AI-written)
+
+🔤 594,021 Input Tokens, 9,663 Output Tokens
+
+💵 $3.26 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 5 AI Prompts
+
+GPT                      300 lines           █████████████████████████   100.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 13.69% of written lines came from AI
+📝 Concise Prompter — average 338 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🔍 Hands-On Reviewer — 85.3% of changed lines were hand-edited
+```
+
+
+ Last Updated on 29/07/2026 04:20:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
