@@ -149,36 +149,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-88%20hrs%2010%20mins-blue?style=flat)
 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1227 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.64 % 
-🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.80 % 
-🌙 Night                  2666 commits        █████████░░░░░░░░░░░░░░░░   35.31 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-```
-
-🤖 **AI Coding This Week** 
-
-```text
-No AI Coding Activity Tracked This Week
-```
-
-
- Last Updated on 06/08/2026 04:21:48 UTC
+ Last Updated on 07/08/2026 03:56:51 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
