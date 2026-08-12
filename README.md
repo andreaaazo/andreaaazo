@@ -157,7 +157,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 🌞 Morning                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌙 Night                  2670 commits        █████████░░░░░░░░░░░░░░░░   35.34 % 
+🌙 Night                  2671 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
 ```
 
 
@@ -165,15 +165,17 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Nix                      19 mins             █████████░░░░░░░░░░░░░░░░   37.72 % 
-Markdown                 11 mins             ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-gitignore                8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-Go                       5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
-YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.38 % 
+Python                   2 hrs 5 mins        █████████████████░░░░░░░░   69.95 % 
+Nix                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
+Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
+gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
 
 🐱‍💻 Projects: 
-darksideos3              31 mins             ███████████████░░░░░░░░░░   61.41 % 
-darksideos               20 mins             ██████████░░░░░░░░░░░░░░░   38.59 % 
+Unknown Project          2 hrs 5 mins        █████████████████░░░░░░░░   69.95 % 
+darksideos3              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+darksideos               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -183,7 +185,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 11/08/2026 03:09:19 UTC
+ Last Updated on 12/08/2026 03:28:26 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
