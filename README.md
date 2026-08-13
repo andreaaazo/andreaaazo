@@ -156,8 +156,8 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 ```text
 🌞 Morning                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
 🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
-🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.78 % 
-🌙 Night                  2671 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
+🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.77 % 
+🌙 Night                  2672 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
 ```
 
 
@@ -165,17 +165,17 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 5 mins        █████████████████░░░░░░░░   69.95 % 
-Nix                      19 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.88 % 
-Markdown                 11 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
-gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.79 % 
-Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
+Python                   3 hrs 39 mins       ████████████████████░░░░░   80.25 % 
+Nix                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
+Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
+gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
+Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 5 mins        █████████████████░░░░░░░░   69.95 % 
-darksideos3              31 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
-darksideos               20 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.13 % 
-nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.21 % 
+Unknown Project          3 hrs 39 mins       ████████████████████░░░░░   80.25 % 
+darksideos3              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
+darksideos               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -185,7 +185,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 12/08/2026 03:28:26 UTC
+ Last Updated on 13/08/2026 03:31:52 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
