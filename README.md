@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.25 % 
-🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+🌞 Morning                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.24 % 
+🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
 🌃 Evening                2401 commits        ████████░░░░░░░░░░░░░░░░░   31.76 % 
-🌙 Night                  2674 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
+🌙 Night                  2675 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
 ```
 
 
@@ -165,17 +165,12 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 39 mins       ████████████████████░░░░░   80.25 % 
-Nix                      19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.15 % 
-Markdown                 11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.34 % 
-gitignore                8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.15 % 
-Go                       5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+Python                   3 hrs 39 mins       █████████████████████████   99.02 % 
+Lua                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 
 🐱‍💻 Projects: 
-Unknown Project          3 hrs 39 mins       ████████████████████░░░░░   80.25 % 
-darksideos3              31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-darksideos               20 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Unknown Project          3 hrs 39 mins       █████████████████████████   99.02 % 
+nvim                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.98 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -185,7 +180,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 15/08/2026 02:18:43 UTC
+ Last Updated on 16/08/2026 02:25:45 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
