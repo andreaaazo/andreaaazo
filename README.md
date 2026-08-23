@@ -149,15 +149,15 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%203%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-91%20hrs%2027%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1228 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-🌆 Daytime                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
-🌃 Evening                2402 commits        ████████░░░░░░░░░░░░░░░░░   31.74 % 
-🌙 Night                  2681 commits        █████████░░░░░░░░░░░░░░░░   35.43 % 
+🌞 Morning                1226 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+🌆 Daytime                1252 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.73 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.45 % 
+🌙 Night                  2652 commits        █████████░░░░░░░░░░░░░░░░   35.44 % 
 ```
 
 
@@ -165,44 +165,44 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 7 mins        ██████████░░░░░░░░░░░░░░░   38.58 % 
-Markdown                 2 hrs 15 mins       █████░░░░░░░░░░░░░░░░░░░░   21.07 % 
-Other                    56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
-Python                   41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.49 % 
-Bash                     37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+YAML                     6 hrs 59 mins       ██████████░░░░░░░░░░░░░░░   38.17 % 
+Go                       3 hrs 39 mins       █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Markdown                 2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
+Bash                     1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.61 % 
+Other                    56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
 
 🐱‍💻 Projects: 
-darksideos               7 hrs 23 mins       █████████████████░░░░░░░░   69.22 % 
-andreaaazo               1 hr 42 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.02 % 
-Unknown Project          1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-trytask                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
-old-darkside             10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+darksideos               14 hrs 44 mins      ████████████████████░░░░░   80.50 % 
+andreaaazo               1 hr 46 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.69 % 
+Unknown Project          1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   06.33 % 
+nvim                     14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+trytask                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.15 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 53 mins (27.12%)
+⏱ AI Coding Time: 3 hrs 17 mins (17.96%)
 
-✍️ 4,220 lines written by AI, 1,452 lines written by hand (74.4% AI-written)
+✍️ 4,642 lines written by AI, 2,658 lines written by hand (63.59% AI-written)
 
-🔤 2,392,752 Input Tokens, 573,177 Output Tokens
+🔤 2,561,545 Input Tokens, 591,676 Output Tokens
 
-💵 $76.10 Estimated AI Cost This Week
+💵 $79.58 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 16 AI Prompts
+🧠 4 AI Sessions, 17 AI Prompts
 
-GPT                      4,334 lines         █████████████████████████   100.00 % 
+GPT                      4,757 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 74.4% of written lines came from AI
-📝 Concise Prompter — average 355 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 28.48% of changed lines were hand-edited
+⚖️ Balanced with AI — 63.59% of written lines came from AI
+📝 Concise Prompter — average 346 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 42.69% of changed lines were hand-edited
 ```
 
 
- Last Updated on 22/08/2026 02:20:06 UTC
+ Last Updated on 23/08/2026 02:28:25 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
