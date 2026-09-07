@@ -154,9 +154,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1234 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.46 % 
+🌞 Morning                1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.40 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.39 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
 ```
 
@@ -165,42 +165,42 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-YAML                     5 hrs 45 mins       ███████░░░░░░░░░░░░░░░░░░   26.77 % 
-Markdown                 4 hrs 19 mins       █████░░░░░░░░░░░░░░░░░░░░   20.11 % 
-Docker                   4 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   19.01 % 
-Bash                     3 hrs 2 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.13 % 
-Go                       1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.45 % 
+YAML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
+Markdown                 4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
+Docker                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
+Bash                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
+Go                       1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
 
 🐱‍💻 Projects: 
-darksideos               21 hrs 28 mins      █████████████████████████   99.85 % 
-old-darkside             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
+darksideos               17 hrs 51 mins      █████████████████████████   99.82 % 
+old-darkside             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 13 hrs 8 mins (61.15%)
+⏱ AI Coding Time: 10 hrs 21 mins (57.93%)
 
-✍️ 24,728 lines written by AI, 5,072 lines written by hand (82.98% AI-written)
+✍️ 17,050 lines written by AI, 4,954 lines written by hand (77.49% AI-written)
 
-🔤 4,808,849 Input Tokens, 1,211,910 Output Tokens
+🔤 3,896,717 Input Tokens, 899,493 Output Tokens
 
-💵 $122.37 Estimated AI Cost This Week
+💵 $100.60 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 134 AI Prompts
+🧠 8 AI Sessions, 107 AI Prompts
 
-GPT                      25,211 lines        █████████████████████████   100.00 % 
+GPT                      17,502 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 82.98% of written lines came from AI
-📄 Detailed Prompter — average 500 characters per prompt
-🔁 Iterative Prompter — average 12 prompts per session
-🚀 High AI Trust — 21.07% of changed lines were hand-edited
+🤖 AI-Driven — 77.49% of written lines came from AI
+📝 Concise Prompter — average 465 characters per prompt
+🔁 Iterative Prompter — average 13 prompts per session
+🚀 High AI Trust — 26.92% of changed lines were hand-edited
 ```
 
 
- Last Updated on 06/09/2026 05:47:17 UTC
+ Last Updated on 07/09/2026 05:58:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
