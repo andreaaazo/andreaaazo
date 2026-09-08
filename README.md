@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1235 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.47 % 
+🌞 Morning                1236 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.48 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.39 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.42 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.41 % 
 ```
 
 
@@ -165,42 +165,43 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-YAML                     4 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   24.53 % 
-Markdown                 4 hrs 6 mins        ██████░░░░░░░░░░░░░░░░░░░   22.96 % 
-Docker                   3 hrs 44 mins       █████░░░░░░░░░░░░░░░░░░░░   20.94 % 
-Bash                     2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-Go                       1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+Markdown                 4 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   24.84 % 
+YAML                     3 hrs 47 mins       ██████░░░░░░░░░░░░░░░░░░░   22.73 % 
+Docker                   3 hrs 8 mins        █████░░░░░░░░░░░░░░░░░░░░   18.79 % 
+Go                       1 hr 55 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Bash                     1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
 
 🐱‍💻 Projects: 
-darksideos               17 hrs 51 mins      █████████████████████████   99.82 % 
-old-darkside             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+darksideos               16 hrs 33 mins      █████████████████████████   99.27 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+old-darkside             1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
+pythonvenv               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 10 hrs 21 mins (57.93%)
+⏱ AI Coding Time: 9 hrs 33 mins (57.33%)
 
-✍️ 17,050 lines written by AI, 4,954 lines written by hand (77.49% AI-written)
+✍️ 16,604 lines written by AI, 4,698 lines written by hand (77.95% AI-written)
 
-🔤 3,896,717 Input Tokens, 899,493 Output Tokens
+🔤 3,743,077 Input Tokens, 853,303 Output Tokens
 
-💵 $100.60 Estimated AI Cost This Week
+💵 $97.69 Estimated AI Cost This Week
 
-🧠 8 AI Sessions, 107 AI Prompts
+🧠 8 AI Sessions, 101 AI Prompts
 
-GPT                      17,502 lines        █████████████████████████   100.00 % 
+GPT                      17,062 lines        █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.49% of written lines came from AI
-📝 Concise Prompter — average 465 characters per prompt
+🤖 AI-Driven — 77.95% of written lines came from AI
+📄 Detailed Prompter — average 500 characters per prompt
 🔁 Iterative Prompter — average 13 prompts per session
-🚀 High AI Trust — 26.92% of changed lines were hand-edited
+🚀 High AI Trust — 26.09% of changed lines were hand-edited
 ```
 
 
- Last Updated on 07/09/2026 05:58:14 UTC
+ Last Updated on 08/09/2026 05:50:37 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
