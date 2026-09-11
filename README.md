@@ -149,14 +149,14 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-111%20hrs%2052%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%206%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1238 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.50 % 
-🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.38 % 
+🌞 Morning                1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
 ```
 
@@ -165,45 +165,45 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 59 mins       ███████░░░░░░░░░░░░░░░░░░   26.60 % 
-YAML                     2 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.88 % 
-TOML                     2 hrs 31 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Go                       1 hr 49 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
-Bash                     1 hr 34 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
+TOML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
+YAML                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
+Go                       1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
 
 🐱‍💻 Projects: 
-darksideos               13 hrs 15 mins      ██████████████████████░░░   88.22 % 
-Unknown Project          1 hr 23 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.31 % 
-mise.toml                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.39 % 
-local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
-models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+darksideos               10 hrs 53 mins      ██████████████████████░░░   86.02 % 
+Unknown Project          1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+mise.toml                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 59 mins (53.13%)
+⏱ AI Coding Time: 6 hrs 33 mins (51.74%)
 
-✍️ 13,111 lines written by AI, 5,030 lines written by hand (72.27% AI-written)
+✍️ 12,402 lines written by AI, 3,510 lines written by hand (77.94% AI-written)
 
-🔤 3,416,626 Input Tokens, 620,317 Output Tokens
+🔤 2,822,384 Input Tokens, 519,923 Output Tokens
 
-💵 $96.63 Estimated AI Cost This Week
+💵 $84.07 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 119 AI Prompts
+🧠 11 AI Sessions, 107 AI Prompts
 
-GPT                      13,138 lines        █████████████████████████   100.00 % 
+GPT                      12,428 lines        █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 72.27% of written lines came from AI
-📄 Detailed Prompter — average 784 characters per prompt
+🤖 AI-Driven — 77.94% of written lines came from AI
+📄 Detailed Prompter — average 832 characters per prompt
 🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 31.06% of changed lines were hand-edited
+🚀 High AI Trust — 25.27% of changed lines were hand-edited
 ```
 
 
- Last Updated on 10/09/2026 05:48:57 UTC
+ Last Updated on 11/09/2026 05:49:29 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
