@@ -149,15 +149,15 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%206%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-113%20hrs%2050%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1239 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
+🌞 Morning                1240 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.37 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.40 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
 ```
 
 
@@ -165,45 +165,45 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 2 hrs 48 mins       ██████░░░░░░░░░░░░░░░░░░░   22.11 % 
-TOML                     2 hrs 31 mins       █████░░░░░░░░░░░░░░░░░░░░   19.90 % 
-YAML                     2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.26 % 
-Go                       1 hr 42 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Bash                     1 hr 29 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.81 % 
+TOML                     2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   27.69 % 
+Bash                     2 hrs 32 mins       ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+YAML                     1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Markdown                 1 hr 1 min          ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
+Go                       58 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.32 % 
 
 🐱‍💻 Projects: 
-darksideos               10 hrs 53 mins      ██████████████████████░░░   86.02 % 
-Unknown Project          1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-mise.toml                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
-local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.16 % 
+darksideos               8 hrs 43 mins       █████████████████████░░░░   83.12 % 
+Unknown Project          1 hr 23 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.34 % 
+mise.toml                12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 6 hrs 33 mins (51.74%)
+⏱ AI Coding Time: 4 hrs 47 mins (45.74%)
 
-✍️ 12,402 lines written by AI, 3,510 lines written by hand (77.94% AI-written)
+✍️ 4,506 lines written by AI, 2,732 lines written by hand (62.25% AI-written)
 
-🔤 2,822,384 Input Tokens, 519,923 Output Tokens
+🔤 1,740,440 Input Tokens, 281,538 Output Tokens
 
-💵 $84.07 Estimated AI Cost This Week
+💵 $67.77 Estimated AI Cost This Week
 
-🧠 11 AI Sessions, 107 AI Prompts
+🧠 8 AI Sessions, 69 AI Prompts
 
-GPT                      12,428 lines        █████████████████████████   100.00 % 
+GPT                      4,512 lines         █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 77.94% of written lines came from AI
-📄 Detailed Prompter — average 832 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 25.27% of changed lines were hand-edited
+⚖️ Balanced with AI — 62.25% of written lines came from AI
+📝 Concise Prompter — average 393 characters per prompt
+🔁 Iterative Prompter — average 9 prompts per session
+🚀 High AI Trust — 41.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 11/09/2026 05:49:29 UTC
+ Last Updated on 12/09/2026 05:37:02 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
