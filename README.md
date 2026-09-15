@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1242 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+🌞 Morning                1243 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.56 % 
+🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.36 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.39 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.38 % 
 ```
 
 
@@ -165,45 +165,45 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TOML                     2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   33.76 % 
-Bash                     2 hrs 15 mins       ███████░░░░░░░░░░░░░░░░░░   26.34 % 
-Go                       51 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.96 % 
-YAML                     47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
-Markdown                 42 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.24 % 
+TOML                     2 hrs 49 mins       █████████░░░░░░░░░░░░░░░░   35.85 % 
+Bash                     2 hrs 12 mins       ███████░░░░░░░░░░░░░░░░░░   28.06 % 
+YAML                     45 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Markdown                 41 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.80 % 
+Go                       19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 % 
 
 🐱‍💻 Projects: 
-darksideos               6 hrs 49 mins       ████████████████████░░░░░   79.41 % 
-Unknown Project          1 hr 23 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.27 % 
-mise.toml                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.43 % 
-local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.23 % 
+darksideos               6 hrs 11 mins       ████████████████████░░░░░   78.64 % 
+Unknown Project          1 hr 19 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
+mise.toml                12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.66 % 
+local_ai                 7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+models.py                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 3 hrs 49 mins (44.49%)
+⏱ AI Coding Time: 3 hrs 9 mins (40.18%)
 
-✍️ 302 lines written by AI, 2,094 lines written by hand (12.6% AI-written)
+✍️ 169 lines written by AI, 2,083 lines written by hand (7.5% AI-written)
 
-🔤 1,459,548 Input Tokens, 186,824 Output Tokens
+🔤 1,289,841 Input Tokens, 171,793 Output Tokens
 
-💵 $50.41 Estimated AI Cost This Week
+💵 $46.24 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 48 AI Prompts
+🧠 6 AI Sessions, 45 AI Prompts
 
-GPT                      308 lines           █████████████████████████   100.00 % 
+GPT                      169 lines           █████████████████████████   100.00 % 
 Cline                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 12.6% of written lines came from AI
-📝 Concise Prompter — average 344 characters per prompt
-🔁 Iterative Prompter — average 7 prompts per session
-🔍 Hands-On Reviewer — 88.81% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 7.5% of written lines came from AI
+📝 Concise Prompter — average 327 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
+🔍 Hands-On Reviewer — 93.5% of changed lines were hand-edited
 ```
 
 
- Last Updated on 14/09/2026 06:03:17 UTC
+ Last Updated on 15/09/2026 06:03:34 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
