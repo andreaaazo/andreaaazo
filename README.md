@@ -149,15 +149,15 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-114%20hrs%2049%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-115%20hrs%202%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1248 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+🌞 Morning                1249 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.34 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.36 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.33 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.35 % 
 ```
 
 
@@ -165,41 +165,41 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 37 mins             ███████████░░░░░░░░░░░░░░   45.38 % 
-Other                    21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
-Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-Shell                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
+Markdown                 59 mins             █████████████░░░░░░░░░░░░   50.28 % 
+Other                    34 mins             ███████░░░░░░░░░░░░░░░░░░   29.09 % 
+Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
+Docker                   3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
+Shell                    3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
 
 🐱‍💻 Projects: 
-darksideos               1 hr                ███████████████████░░░░░░   74.03 % 
-andreaaazo               21 mins             ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
+darksideos               1 hr 23 mins        ██████████████████░░░░░░░   70.98 % 
+andreaaazo               34 mins             ███████░░░░░░░░░░░░░░░░░░   29.02 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 58 mins (70.82%)
+⏱ AI Coding Time: 1 hr 11 mins (60.66%)
 
 ✍️ 1,855 lines written by AI, 45 lines written by hand (97.63% AI-written)
 
-🔤 607,657 Input Tokens, 109,078 Output Tokens
+🔤 773,809 Input Tokens, 116,415 Output Tokens
 
-💵 $20.71 Estimated AI Cost This Week
+💵 $23.66 Estimated AI Cost This Week
 
-🧠 5 AI Sessions, 7 AI Prompts
+🧠 6 AI Sessions, 9 AI Prompts
 
 GPT                      1,859 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 97.63% of written lines came from AI
-📝 Concise Prompter — average 313 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🚀 High AI Trust — 2.62% of changed lines were hand-edited
+📝 Concise Prompter — average 290 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
+🚀 High AI Trust — 2.57% of changed lines were hand-edited
 ```
 
 
- Last Updated on 20/09/2026 06:01:29 UTC
+ Last Updated on 21/09/2026 06:08:07 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
