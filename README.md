@@ -154,9 +154,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1253 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+🌞 Morning                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.32 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.33 % 
 ```
 
@@ -165,41 +165,41 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 58 mins             ██████████░░░░░░░░░░░░░░░   41.44 % 
-Other                    53 mins             █████████░░░░░░░░░░░░░░░░   37.48 % 
-Nix                      23 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
-Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.96 % 
+Other                    49 mins             ██████████░░░░░░░░░░░░░░░   38.78 % 
+Markdown                 48 mins             █████████░░░░░░░░░░░░░░░░   37.90 % 
+Nix                      23 mins             █████░░░░░░░░░░░░░░░░░░░░   18.50 % 
+Docker                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.34 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.06 % 
 
 🐱‍💻 Projects: 
-darksideos               1 hr 28 mins        ████████████████░░░░░░░░░   62.58 % 
-andreaaazo               52 mins             █████████░░░░░░░░░░░░░░░░   37.42 % 
+darksideos               1 hr 18 mins        ███████████████░░░░░░░░░░   61.28 % 
+andreaaazo               49 mins             ██████████░░░░░░░░░░░░░░░   38.72 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 11 mins (50.54%)
+⏱ AI Coding Time: 1 hr 8 mins (53.24%)
 
-✍️ 188 lines written by AI, 116 lines written by hand (61.84% AI-written)
+✍️ 188 lines written by AI, 86 lines written by hand (68.61% AI-written)
 
-🔤 1,065,462 Input Tokens, 67,974 Output Tokens
+🔤 925,877 Input Tokens, 42,088 Output Tokens
 
-💵 $20.21 Estimated AI Cost This Week
+💵 $16.17 Estimated AI Cost This Week
 
-🧠 7 AI Sessions, 11 AI Prompts
+🧠 6 AI Sessions, 10 AI Prompts
 
 GPT                      188 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-⚖️ Balanced with AI — 61.84% of written lines came from AI
-📝 Concise Prompter — average 336 characters per prompt
+🤖 AI-Driven — 68.61% of written lines came from AI
+📝 Concise Prompter — average 286 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 42.15% of changed lines were hand-edited
+🚀 High AI Trust — 35.4% of changed lines were hand-edited
 ```
 
 
- Last Updated on 25/09/2026 06:05:06 UTC
+ Last Updated on 26/09/2026 06:03:53 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
