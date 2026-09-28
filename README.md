@@ -154,9 +154,9 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1255 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.69 % 
+🌞 Morning                1256 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.70 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.68 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.31 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.30 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.32 % 
 ```
 
@@ -165,42 +165,42 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 33 mins             █████████░░░░░░░░░░░░░░░░   36.17 % 
-Nix                      23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Other                    22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.79 % 
-hyprlang                 9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
-Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
+Nix                      23 mins             ███████████░░░░░░░░░░░░░░   43.32 % 
+Other                    10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
+hyprlang                 9 mins              █████░░░░░░░░░░░░░░░░░░░░   18.02 % 
+Markdown                 9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.87 % 
+Lua                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-darksideos               58 mins             ████████████████░░░░░░░░░   63.72 % 
-andreaaazo               22 mins             ██████░░░░░░░░░░░░░░░░░░░   24.70 % 
-Unknown Project          10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.58 % 
+darksideos               33 mins             ████████████████░░░░░░░░░   62.02 % 
+Unknown Project          10 mins             █████░░░░░░░░░░░░░░░░░░░░   19.57 % 
+andreaaazo               10 mins             █████░░░░░░░░░░░░░░░░░░░░   18.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 23 mins (25.04%)
+⏱ AI Coding Time: 10 mins (18.41%)
 
-✍️ 0 lines written by AI, 39 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 36 lines written by hand (0.0% AI-written)
 
-🔤 682,152 Input Tokens, 16,621 Output Tokens
+🔤 516,000 Input Tokens, 9,284 Output Tokens
 
-💵 $8.93 Estimated AI Cost This Week
+💵 $5.99 Estimated AI Cost This Week
 
-🧠 4 AI Sessions, 6 AI Prompts
+🧠 3 AI Sessions, 4 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 308 characters per prompt
-🔁 Iterative Prompter — average 2 prompts per session
+📝 Concise Prompter — average 358 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 27/09/2026 06:30:55 UTC
+ Last Updated on 28/09/2026 06:39:38 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
