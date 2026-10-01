@@ -154,7 +154,7 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1258 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.72 % 
+🌞 Morning                1259 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.74 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.29 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.31 % 
@@ -165,24 +165,24 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 11 mins             █████████░░░░░░░░░░░░░░░░   34.24 % 
-hyprlang                 9 mins              ███████░░░░░░░░░░░░░░░░░░   28.48 % 
-Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   26.48 % 
-Nix                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.15 % 
-Lua                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.46 % 
+hyprlang                 9 mins              ████████░░░░░░░░░░░░░░░░░   30.56 % 
+Markdown                 9 mins              ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+Other                    9 mins              ███████░░░░░░░░░░░░░░░░░░   28.41 % 
+Nix                      2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Lua                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
 
 🐱‍💻 Projects: 
-darksideos               14 mins             ███████████░░░░░░░░░░░░░░   42.58 % 
-Unknown Project          10 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
-andreaaazo               9 mins              ███████░░░░░░░░░░░░░░░░░░   26.48 % 
+darksideos               12 mins             ██████████░░░░░░░░░░░░░░░   38.39 % 
+Unknown Project          10 mins             ████████░░░░░░░░░░░░░░░░░   33.19 % 
+andreaaazo               9 mins              ███████░░░░░░░░░░░░░░░░░░   28.41 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (26.48%)
+⏱ AI Coding Time: 9 mins (28.41%)
 
-✍️ 0 lines written by AI, 14 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 11 lines written by hand (0.0% AI-written)
 
 🔤 356,287 Input Tokens, 7,645 Output Tokens
 
@@ -200,7 +200,7 @@ GPT                      0 lines             ░░░░░░░░░░░�
 ```
 
 
- Last Updated on 30/09/2026 06:36:16 UTC
+ Last Updated on 01/10/2026 07:09:14 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
