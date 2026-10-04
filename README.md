@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1261 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.76 % 
+🌞 Morning                1262 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.28 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.30 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.29 % 
 ```
 
 
@@ -165,15 +165,14 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-hyprlang                 9 mins              ███████████░░░░░░░░░░░░░░   42.68 % 
-Markdown                 9 mins              ██████████░░░░░░░░░░░░░░░   41.34 % 
-Nix                      2 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.00 % 
-Lua                      0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.69 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+Markdown                 9 mins              ███████████████████░░░░░░   76.15 % 
+Nix                      2 mins              ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
+YAML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+conf                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 
 🐱‍💻 Projects: 
-darksideos               12 mins             █████████████░░░░░░░░░░░░   53.63 % 
-Unknown Project          10 mins             ████████████░░░░░░░░░░░░░   46.37 % 
+darksideos               13 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -183,7 +182,7 @@ No AI Coding Activity Tracked This Week
 ```
 
 
- Last Updated on 03/10/2026 06:21:11 UTC
+ Last Updated on 04/10/2026 06:45:46 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
