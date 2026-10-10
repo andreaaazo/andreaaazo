@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1267 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.82 % 
+🌞 Morning                1268 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.26 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.27 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.25 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.26 % 
 ```
 
 
@@ -165,44 +165,43 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Other                    1 hr 3 mins         ███████████████████░░░░░░   76.03 % 
-hyprlang                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   17.39 % 
-Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-kitty                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Other                    1 hr 7 mins         ███████████████████░░░░░░   77.52 % 
+hyprlang                 14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
+Python                   2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
+kitty                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
+zathurarc                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
 
 🐱‍💻 Projects: 
-andreaaazo               52 mins             ███████████████░░░░░░░░░░   61.93 % 
-dotfiles                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.69 % 
-Andrea                   11 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.10 % 
-pythonvenv               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
-darksideos               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.75 % 
+andreaaazo               55 mins             ████████████████░░░░░░░░░   63.87 % 
+dotfiles                 16 mins             █████░░░░░░░░░░░░░░░░░░░░   19.06 % 
+Andrea                   11 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.65 % 
+pythonvenv               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 1 hr 15 mins (89.99%)
+⏱ AI Coding Time: 1 hr 19 mins (91.04%)
 
 ✍️ 0 lines written by AI, 1 lines written by hand (0.0% AI-written)
 
-🔤 1,955,361 Input Tokens, 38,314 Output Tokens
+🔤 2,025,983 Input Tokens, 46,772 Output Tokens
 
-💵 $24.80 Estimated AI Cost This Week
+💵 $26.78 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 11 AI Prompts
+🧠 4 AI Sessions, 13 AI Prompts
 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 450 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📝 Concise Prompter — average 416 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 
- Last Updated on 09/10/2026 07:20:14 UTC
+ Last Updated on 10/10/2026 06:56:55 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
