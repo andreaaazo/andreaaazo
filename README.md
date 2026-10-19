@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1276 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
+🌞 Morning                1277 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.93 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.63 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.22 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.23 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.22 % 
 ```
 
 
@@ -165,44 +165,43 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-TOML                     23 mins             ██████░░░░░░░░░░░░░░░░░░░   25.56 % 
-CSS                      14 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-Bash                     12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.76 % 
-Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.72 % 
-YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.58 % 
+TOML                     23 mins             ███████░░░░░░░░░░░░░░░░░░   26.28 % 
+Bash                     12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.14 % 
+CSS                      12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.83 % 
+Markdown                 10 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.05 % 
+YAML                     9 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.87 % 
 
 🐱‍💻 Projects: 
-Unknown Project          1 hr 8 mins         ███████████████████░░░░░░   74.50 % 
-My Vault (Copy)          12 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.98 % 
-gympal                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.77 % 
-andreaaazo               2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.74 % 
-darksideos               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+Unknown Project          1 hr 8 mins         ███████████████████░░░░░░   76.60 % 
+My Vault (Copy)          12 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.38 % 
+gympal                   6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.96 % 
+darksideos               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 48 mins (53.08%)
+⏱ AI Coding Time: 46 mins (51.76%)
 
 ✍️ 696 lines written by AI, 454 lines written by hand (60.52% AI-written)
 
-🔤 316,974 Input Tokens, 47,726 Output Tokens
+🔤 242,282 Input Tokens, 43,355 Output Tokens
 
-💵 $11.38 Estimated AI Cost This Week
+💵 $10.15 Estimated AI Cost This Week
 
-🧠 3 AI Sessions, 32 AI Prompts
+🧠 2 AI Sessions, 31 AI Prompts
 
 GPT                      696 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
 ⚖️ Balanced with AI — 60.52% of written lines came from AI
-📄 Detailed Prompter — average 1,265 characters per prompt
-🔁 Iterative Prompter — average 11 prompts per session
+📄 Detailed Prompter — average 1,294 characters per prompt
+🔁 Iterative Prompter — average 16 prompts per session
 🚀 High AI Trust — 44.67% of changed lines were hand-edited
 ```
 
 
- Last Updated on 18/10/2026 05:42:33 UTC
+ Last Updated on 19/10/2026 05:59:54 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
