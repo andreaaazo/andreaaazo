@@ -154,10 +154,10 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1284 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.01 % 
+🌞 Morning                1285 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.02 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.19 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.19 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
 ```
 
 
@@ -165,26 +165,26 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-JavaScript               42 mins             ████████████████░░░░░░░░░   62.79 % 
-Markdown                 17 mins             ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
-YAML                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
-Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.57 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+JavaScript               42 mins             ███████████░░░░░░░░░░░░░░   45.17 % 
+Markdown                 29 mins             ████████░░░░░░░░░░░░░░░░░   30.94 % 
+Nix                      8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.17 % 
+YAML                     7 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
 
 🐱‍💻 Projects: 
-My Vault (Copy)          35 mins             █████████████░░░░░░░░░░░░   51.39 % 
-Unknown Project          16 mins             ██████░░░░░░░░░░░░░░░░░░░   23.58 % 
-My Vault                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.72 % 
-darksideos               5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-wavvy_2_new              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.06 % 
+My Vault (Copy)          35 mins             █████████░░░░░░░░░░░░░░░░   36.97 % 
+darksideos               31 mins             ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Unknown Project          16 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.96 % 
+My Vault                 6 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.99 % 
+wavvy_2_new              2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 mins (84.42%)
+⏱ AI Coding Time: 57 mins (60.73%)
 
-✍️ 548 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 548 lines written by AI, 63 lines written by hand (89.69% AI-written)
 
 🔤 1,488,690 Input Tokens, 304,323 Output Tokens
 
@@ -195,14 +195,14 @@ wavvy_2_new              2 mins              █░░░░░░░░░░�
 GPT                      556 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 100.0% of written lines came from AI
+🤖 AI-Driven — 89.69% of written lines came from AI
 📚 Verbose Prompter — average 4,362 characters per prompt
 🔁 Iterative Prompter — average 2 prompts per session
-🚀 High AI Trust — 0.0% of changed lines were hand-edited
+🚀 High AI Trust — 16.77% of changed lines were hand-edited
 ```
 
 
- Last Updated on 26/10/2026 05:58:43 UTC
+ Last Updated on 27/10/2026 06:11:00 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
