@@ -149,15 +149,15 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-117%20hrs%2026%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2036%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1286 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.03 % 
+🌞 Morning                1287 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
 🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
-🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.18 % 
-🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.18 % 
+🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
+🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
 ```
 
 
@@ -165,43 +165,46 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.61 % 
-YAML                     35 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.89 % 
-TOML                     30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
-Bash                     23 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.55 % 
-Go                       10 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.85 % 
+Markdown                 1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.89 % 
+Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
+Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
+TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
 
 🐱‍💻 Projects: 
-darksideos               1 hr 52 mins        █████████████░░░░░░░░░░░░   50.83 % 
-Unknown Project          1 hr 43 mins        ████████████░░░░░░░░░░░░░   46.83 % 
-wavvy_2_new              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.25 % 
-darksideos3              2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Unknown Project          2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
+darksideos               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.95 % 
+brand-book               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+wordmark                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
+andreaaazo               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 9 mins (4.42%)
+⏱ AI Coding Time: 2 hrs 19 mins (38.29%)
 
-✍️ 0 lines written by AI, 3,196 lines written by hand (0.0% AI-written)
+✍️ 292 lines written by AI, 5,015 lines written by hand (5.5% AI-written)
 
-🔤 225,515 Input Tokens, 7,686 Output Tokens
+🔤 1,355,685 Input Tokens, 262,900 Output Tokens
 
-💵 $4.54 Estimated AI Cost This Week
+💵 $33.81 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 6 AI Sessions, 18 AI Prompts
 
+Opus                     297 lines           █████████████████████████   100.00 % 
 GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 352 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
-🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 5.5% of written lines came from AI
+📚 Verbose Prompter — average 1,824 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🔍 Hands-On Reviewer — 94.53% of changed lines were hand-edited
 ```
 
 
- Last Updated on 28/10/2026 06:48:39 UTC
+ Last Updated on 29/10/2026 06:57:20 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
