@@ -149,13 +149,13 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 <br />
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-119%20hrs%2036%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-125%20hrs%2013%20mins-blue?style=flat)
 
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1287 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
-🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+🌞 Morning                1288 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.06 % 
+🌆 Daytime                1254 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.60 % 
 🌃 Evening                2354 commits        ████████░░░░░░░░░░░░░░░░░   31.17 % 
 🌙 Night                  2656 commits        █████████░░░░░░░░░░░░░░░░   35.17 % 
 ```
@@ -165,46 +165,47 @@ I like coding, and I'm a big fan of Star Wars.<br>If I'm not online, you can fin
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 56 mins        ████████░░░░░░░░░░░░░░░░░   31.89 % 
-Other                    1 hr 6 mins         █████░░░░░░░░░░░░░░░░░░░░   18.24 % 
-Python                   48 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
-YAML                     35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.68 % 
-TOML                     30 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.45 % 
+Markdown                 5 hrs 6 mins        ██████████░░░░░░░░░░░░░░░   39.05 % 
+Other                    2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.12 % 
+Python                   1 hr 35 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.12 % 
+YAML                     1 hr 3 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 % 
+Bash                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.99 % 
 
 🐱‍💻 Projects: 
-Unknown Project          2 hrs 4 mins        █████████░░░░░░░░░░░░░░░░   34.07 % 
-darksideos               1 hr 52 mins        ████████░░░░░░░░░░░░░░░░░   30.95 % 
-brand-book               40 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
-wordmark                 35 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-andreaaazo               18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Unknown Project          4 hrs 54 mins       █████████░░░░░░░░░░░░░░░░   37.56 % 
+darksideos               1 hr 56 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.79 % 
+assets                   52 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+wordmark                 40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
+brand-book               40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.16 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 19 mins (38.29%)
+⏱ AI Coding Time: 7 hrs 56 mins (60.71%)
 
-✍️ 292 lines written by AI, 5,015 lines written by hand (5.5% AI-written)
+✍️ 13,193 lines written by AI, 5,668 lines written by hand (69.95% AI-written)
 
-🔤 1,355,685 Input Tokens, 262,900 Output Tokens
+🔤 5,554,442 Input Tokens, 1,409,716 Output Tokens
 
-💵 $33.81 Estimated AI Cost This Week
+💵 $141.10 Estimated AI Cost This Week
 
-🧠 6 AI Sessions, 18 AI Prompts
+🧠 24 AI Sessions, 77 AI Prompts
 
-Opus                     297 lines           █████████████████████████   100.00 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     9,335 lines         █████████████████░░░░░░░░   69.69 % 
+GPT                      3,992 lines         ███████░░░░░░░░░░░░░░░░░░   29.80 % 
+Sonnet                   68 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+Haiku                    0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 5.5% of written lines came from AI
-📚 Verbose Prompter — average 1,824 characters per prompt
+🤖 AI-Driven — 69.95% of written lines came from AI
+📚 Verbose Prompter — average 3,022 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
-🔍 Hands-On Reviewer — 94.53% of changed lines were hand-edited
+🚀 High AI Trust — 31.71% of changed lines were hand-edited
 ```
 
 
- Last Updated on 29/10/2026 06:57:20 UTC
+ Last Updated on 30/10/2026 07:00:11 UTC
 <!--END_SECTION:waka-->
 
 ## 🎼 What I'm listening
